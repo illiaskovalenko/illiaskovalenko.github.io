@@ -1,7 +1,6 @@
 project:
-  output-dir: docs/fr
   render:
-    - fr_*.qmd
+    - fr/*.qmd
 
 website:
   title: "Illia Kovalenko"
@@ -11,13 +10,13 @@ website:
     left:
       - href: /fr/index.html
         text: Accueil
-      - href: /fr/fr_projects.html
+      - href: /fr/projects.html
         text: Projets
-      - href: /fr/fr_method.html
+      - href: /fr/method.html
         text: Méthode
-      - href: /fr/fr_cv.html
+      - href: /fr/cv.html
         text: CV
-      - href: /fr/fr_contact.html
+      - href: /fr/contact.html
         text: Contact
     right:
       - text: "English"
@@ -28,3 +27,4 @@ website:
 format:
   html:
     lang: fr-FR
+    output-dir: fr

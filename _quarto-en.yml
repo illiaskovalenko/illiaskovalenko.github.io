@@ -1,5 +1,4 @@
 project:
-  output-dir: docs/en
   render:
     - en_*.qmd
 
@@ -11,13 +10,13 @@ website:
     left:
       - href: /en/index.html
         text: Home
-      - href: /en/en_projects.html
+      - href: /en/projects.html
         text: Projects
-      - href: /en/en_method.html
+      - href: /en/method.html
         text: Method
-      - href: /en/en_cv.html
+      - href: /en/cv.html
         text: CV
-      - href: /en/en_contact.html
+      - href: /en/contact.html
         text: Contact
     right:
       - text: "English"
@@ -28,3 +27,4 @@ website:
 format:
   html:
     lang: en-GB
+    output-dir: en

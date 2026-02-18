@@ -1,0 +1,7 @@
+Remove-Item -Recurse -Force .\docs -ErrorAction SilentlyContinue
+quarto render --profile def
+quarto render --profile en
+quarto render --profile fr
+git add -A
+git commit -m "Update site"
+git push
