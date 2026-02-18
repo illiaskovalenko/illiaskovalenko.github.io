@@ -6,7 +6,7 @@ project:
 
 profile:
   group:
-    - [default, en, fr]
+    - [def, en, fr]
 
 format:
   html:
