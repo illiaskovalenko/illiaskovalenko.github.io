@@ -1,6 +1,6 @@
 project:
   render:
-    - en_*.qmd
+    - en/*.qmd
 
 website:
   title: "Illia Kovalenko"
