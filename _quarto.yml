@@ -8,9 +8,6 @@ project:
     - en/*.qmd
     - fr/*.qmd
 
-profile:
-  group: [en, fr]
-
 format:
   html:
     theme:
