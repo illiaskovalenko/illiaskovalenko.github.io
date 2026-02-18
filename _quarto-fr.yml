@@ -1,5 +1,4 @@
 project:
-  output-dir: docs
   render:
     - fr/*.qmd
 

@@ -6,7 +6,7 @@ page-layout: full
 
 # Illia Kovalenko
 
-## Select Language
+## Language Choice / Choix de la langue
 
 <div style="display:flex; gap:2rem; margin-top:2rem;">
 
