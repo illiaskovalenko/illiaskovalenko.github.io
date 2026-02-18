@@ -3,8 +3,10 @@ project:
   output-dir: docs
   resources:
     - assets
-  render:
-    - index.qmd
+
+profile:
+  group:
+    - [default, en, fr]
 
 format:
   html:

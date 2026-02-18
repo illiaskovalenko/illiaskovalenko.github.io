@@ -20,8 +20,10 @@ website:
       - href: /fr/contact.html
         text: Contact
     right:
-      - text: EN
-        href: "javascript:void(0)"
+      - text: "English"
+        href: docs/en/index.html
+      - text: "Français"
+        href: docs/fr/index.html
 
 format:
   html:
