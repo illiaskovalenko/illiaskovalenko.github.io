@@ -1,21 +1,30 @@
 ---
-title: "Portfolio"
+title: ""
 toc: false
 page-layout: full
 ---
 
-# Illia Kovalenko
+<div class="landing-hero">
+  <div class="landing-card">
+    <div class="landing-brand">
+      <div class="landing-name">Illia Kovalenko</div>
+      <div class="landing-tagline">
+        Portfolio · Digital learning · Research methods · Project delivery
+      </div>
+    </div>
 
-## Language Choice / Choix de la langue
+    <hr class="landing-sep"/>
 
-<div style="display:flex; gap:2rem; margin-top:2rem;">
+    <div class="landing-title">Language Choice / Choix de la langue</div>
+    <div class="landing-actions">
+      <a class="btn btn-primary btn-lg" href="en/index.html">English</a>
+      <a class="btn btn-outline-primary btn-lg" href="fr/index.html">Français</a>
+    </div>
 
-<a href="en/index.html" style="padding:1rem 1.5rem; border:1px solid #ddd; border-radius:8px; text-decoration:none;">
-<strong>English</strong>
-</a>
-
-<a href="fr/index.html" style="padding:1rem 1.5rem; border:1px solid #ddd; border-radius:8px; text-decoration:none;">
-<strong>Français</strong>
-</a>
-
+    <div class="landing-foot">
+      <span>EPHE-PSL · UCLouvain</span>
+      <span class="dot">•</span>
+      <span>Paris / Bruxelles</span>
+    </div>
+  </div>
 </div>
