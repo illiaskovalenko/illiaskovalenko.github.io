@@ -15,7 +15,9 @@ format:
     css: styles.css
 
 # cd C:\Users\koval\OneDrive\portfolio\illiaskovalenko.github.io
-## quarto render
+## quarto render --profile def
+## quarto render --profile en
+## quarto render --profile fr
 # Depuis PS, 
 ## git add -A
 ## git commit -m "Update portfolio"
