@@ -1,0 +1,13 @@
+---
+title: "Portfolio"
+---
+
+## Positionnement
+
+Ingénierie pédagogique / Learning design orienté diagnostic, structuration et impact.
+
+## Accès rapide
+- [Projets](projets.qmd)
+- [Méthodologie](methodo.qmd)
+- [CV](cv.qmd)
+- [Contact](contact.qmd)
