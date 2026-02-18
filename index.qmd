@@ -5,5 +5,5 @@ toc: false
 
 # Choose your language / Choisissez votre langue
 
-- **English** → [/en/](./en/)
-- **Français** → [/fr/](./fr/)
+- **English** â†’ [/en/](./en/)
+- **FranÃ§ais** â†’ [/fr/](./fr/)
