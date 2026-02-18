@@ -2,4 +2,16 @@
 title: "CV"
 ---
 
-Version web synthÃ©tique + lien vers une version PDF (Ã  ajouter).
+# Professional Profile
+
+Doctoral researcher with strong expertise in analytical structuring, systems thinking, and pedagogical design.
+
+## Core Competencies
+
+- Learning needs analysis  
+- Instructional design  
+- Competency-based frameworks  
+- Digital learning systems  
+- Project management (agile methods)  
+
+A detailed PDF version is available upon request.

@@ -1,13 +1,24 @@
 ---
-title: "Portfolio"
+title: "Illia Kovalenko"
 ---
 
-## Positionnement
+# Learning Design & Pedagogical Engineering
 
-IngÃ©nierie pÃ©dagogique / Learning design orientÃ© diagnostic, structuration et impact.
+I design structured learning systems aligned with competencies, evaluation, and organizational impact.
 
-## AccÃ¨s rapide
-- [Projets](/en/projects.html)
-- [MÃ©thodologie](/en/method.html)
+My approach combines analytical rigor, instructional design, and strategic alignment to transform learning into a measurable driver of performance.
+
+## Core Focus
+
+- Needs analysis and learning diagnosis  
+- Competency-based design  
+- Assessment alignment  
+- Digital learning environments (LMS, hybrid formats)  
+- Continuous improvement and learning analytics  
+
+## Explore
+
+- [Projects](/en/projects.html)
+- [Method](/en/method.html)
 - [CV](/en/cv.html)
 - [Contact](/en/contact.html)

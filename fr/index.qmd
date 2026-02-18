@@ -1,13 +1,24 @@
 ---
-title: "Portfolio"
+title: "Illia Kovalenko"
 ---
 
-## Positionnement
+# Ingénierie pédagogique & Learning Design
 
-IngÃ©nierie pÃ©dagogique / Learning design orientÃ© diagnostic, structuration et impact.
+Je conçois des dispositifs d’apprentissage structurés, alignés sur les compétences, l’évaluation et l’impact organisationnel.
 
-## AccÃ¨s rapide
+Mon approche combine rigueur analytique, conception pédagogique et alignement stratégique afin de faire de la formation un levier mesurable de performance.
+
+## Axes principaux
+
+- Analyse des besoins et diagnostic pédagogique  
+- Conception par compétences  
+- Alignement objectifs – activités – évaluation  
+- Environnements numériques d’apprentissage (LMS, hybride)  
+- Amélioration continue  
+
+## Explorer
+
 - [Projets](/fr/projects.html)
-- [MÃ©thodologie](/fr/method.html)
+- [Méthode](/fr/method.html)
 - [CV](/fr/cv.html)
 - [Contact](/fr/contact.html)

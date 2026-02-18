@@ -2,6 +2,8 @@
 title: "Contact"
 ---
 
-- LinkedIn : Ã  ajouter  
-- Email : Ã  ajouter  
-- GitHub : https://github.com/illiaskovalenko
+# Contact
+
+LinkedIn : (à compléter)  
+GitHub : https://github.com/illiaskovalenko  
+Email : (à compléter)

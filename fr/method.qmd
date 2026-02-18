@@ -1,5 +1,29 @@
 ---
-title: "MÃ©thodologie"
+title: "Méthode"
 ---
 
-Cadre de travail : diagnostic â†’ design â†’ delivery â†’ Ã©valuation â†’ amÃ©lioration continue.
+# Cadre de travail
+
+Ma démarche repose sur une progression structurée :
+
+## 1. Diagnostic
+- Entretiens parties prenantes  
+- Cartographie des compétences  
+- Analyse des contraintes organisationnelles  
+
+## 2. Conception
+- Définition des objectifs pédagogiques  
+- Alignement activités – évaluation  
+- Choix des formats et outils adaptés  
+
+## 3. Mise en œuvre
+- Planification (approche agile si pertinente)  
+- Paramétrage LMS  
+- Structuration des contenus  
+
+## 4. Évaluation
+- Mesure des compétences  
+- Intégration des retours  
+- Amélioration continue  
+
+Former n’est pas transmettre du contenu. C’est concevoir un système.

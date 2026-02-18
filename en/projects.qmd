@@ -1,7 +1,46 @@
 ---
-title: "Projets"
+title: "Projects"
 ---
 
-SÃ©lection de projets structurÃ©s en Ã©tudes de cas (problÃ¨me â†’ diagnostic â†’ conception â†’ mise en Å“uvre â†’ impact).
+# Selected Projects
 
-> Ã€ complÃ©ter : 3 Ã  5 projets maximum.
+Each project is structured as a case study: problem → diagnosis → design → implementation → impact.
+
+---
+
+## Research Methodology Course Redesign
+
+**Context**  
+University-level course requiring structural redesign.
+
+**Diagnosis**  
+Misalignment between objectives, activities, and assessment.  
+Limited integration of applied practice.
+
+**Design**  
+- Competency-based structure  
+- Real-article "red thread" method  
+- Practical group-based activities  
+- Assessment aligned with methodological skills  
+
+**Impact**  
+- Increased student engagement  
+- Clearer competency acquisition  
+- Faculty adoption of redesigned structure  
+
+---
+
+## Agile Product & QA Project (Digital Environment)
+
+**Context**  
+Collaborative product development in an agile framework.
+
+**Focus**  
+- Backlog structuring  
+- User stories  
+- Acceptance criteria  
+- Sprint planning  
+- QA validation  
+
+**Impact**  
+Improved clarity in requirements and structured delivery cycles.

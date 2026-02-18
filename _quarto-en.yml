@@ -1,9 +1,5 @@
-project:
-  output-dir: docs
-  render:
-    - en/*.qmd
-
 website:
+  title: "Illia Kovalenko"
   navbar:
     left:
       - href: /en/index.html
@@ -17,10 +13,9 @@ website:
       - href: /en/contact.html
         text: Contact
     right:
-      - href: /fr/index.html
-        text: FR
+      - text: FR
+        href: "javascript:void(0)"
 
 format:
   html:
-    lang: en
-
+    lang: en-GB

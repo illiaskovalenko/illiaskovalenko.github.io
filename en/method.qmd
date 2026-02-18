@@ -1,5 +1,29 @@
 ---
-title: "MÃ©thodologie"
+title: "Method"
 ---
 
-Cadre de travail : diagnostic â†’ design â†’ delivery â†’ Ã©valuation â†’ amÃ©lioration continue.
+# Working Framework
+
+My methodology follows a structured progression:
+
+## 1. Diagnosis
+- Stakeholder interviews  
+- Competency mapping  
+- Organizational constraints analysis  
+
+## 2. Design
+- Learning objectives formulation  
+- Alignment between activities and assessment  
+- Selection of appropriate formats and tools  
+
+## 3. Implementation
+- Agile planning when relevant  
+- LMS configuration  
+- Content structuring  
+
+## 4. Evaluation
+- Competency assessment  
+- Feedback integration  
+- Iterative refinement  
+
+Learning is not content delivery. It is system design.

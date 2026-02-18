@@ -2,6 +2,45 @@
 title: "Projets"
 ---
 
-SÃ©lection de projets structurÃ©s en Ã©tudes de cas (problÃ¨me â†’ diagnostic â†’ conception â†’ mise en Å“uvre â†’ impact).
+# Projets sélectionnés
 
-> Ã€ complÃ©ter : 3 Ã  5 projets maximum.
+Chaque projet est présenté sous forme d’étude de cas : problème → diagnostic → conception → mise en œuvre → impact.
+
+---
+
+## Refonte d’un cours de méthodologie de la recherche
+
+**Contexte**  
+Cours universitaire nécessitant une restructuration pédagogique.
+
+**Diagnostic**  
+Désalignement entre objectifs, activités et évaluation.  
+Manque d’ancrage pratique.
+
+**Conception**  
+- Structuration par compétences  
+- Méthode du « fil rouge » basée sur un article réel  
+- Travaux pratiques en groupe  
+- Évaluation alignée sur les compétences méthodologiques  
+
+**Impact**  
+- Engagement accru des étudiants  
+- Meilleure acquisition des compétences  
+- Adoption de la structure par l’équipe pédagogique  
+
+---
+
+## Projet agile & assurance qualité (environnement numérique)
+
+**Contexte**  
+Développement produit en cadre agile.
+
+**Interventions**  
+- Structuration du backlog  
+- Rédaction de user stories  
+- Définition des critères d’acceptation  
+- Planification de sprint  
+- Validation qualité  
+
+**Impact**  
+Clarification des exigences et meilleure maîtrise des cycles de livraison.

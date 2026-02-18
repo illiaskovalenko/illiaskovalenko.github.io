@@ -2,4 +2,16 @@
 title: "CV"
 ---
 
-Version web synthÃ©tique + lien vers une version PDF (Ã  ajouter).
+# Profil professionnel
+
+Doctorant avec une forte expertise en structuration analytique, pensée systémique et conception pédagogique.
+
+## Compétences clés
+
+- Analyse des besoins  
+- Ingénierie pédagogique  
+- Approche par compétences  
+- Dispositifs numériques d’apprentissage  
+- Gestion de projet (méthodes agiles)  
+
+Version PDF détaillée disponible sur demande.

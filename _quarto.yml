@@ -1,6 +1,15 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - assets
+  render:
+    - index.qmd
+    - en/*.qmd
+    - fr/*.qmd
+
+profile:
+  group: [en, fr]
 
 format:
   html:
@@ -9,6 +18,9 @@ format:
       - brand
     toc: true
     css: styles.css
+    include-after-body:
+      text: |
+        <script src="/assets/lang-switch.js"></script>
 
 # cd C:\Users\koval\OneDrive\portfolio\illiaskovalenko.github.io
 ## quarto render
