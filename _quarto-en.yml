@@ -1,3 +1,7 @@
+project:
+  render:
+    - en/*.qmd
+
 website:
   title: "Illia Kovalenko"
   navbar:

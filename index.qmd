@@ -1,21 +1,9 @@
 ---
 title: "Portfolio"
 toc: false
-page-layout: full
 ---
 
-# Illia Kovalenko
+# Illia Kovalenko — Portfolio
 
-Choose your language / Choisissez votre langue :
-
-<div style="display:flex; gap:1rem; flex-wrap:wrap; margin-top:1.25rem;">
-  <a href="./en/" style="padding:0.9rem 1.2rem; border:1px solid #ddd; border-radius:10px; text-decoration:none;">
-    <strong>EN</strong><br/>
-    View the portfolio in English
-  </a>
-
-  <a href="./fr/" style="padding:0.9rem 1.2rem; border:1px solid #ddd; border-radius:10px; text-decoration:none;">
-    <strong>FR</strong><br/>
-    Voir le portfolio en français
-  </a>
-</div>
+- **English** → [/en/](./en/)
+- **Français** → [/fr/](./fr/)
