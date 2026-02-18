@@ -1,9 +1,11 @@
+```markdown
 ---
 title: ""
 toc: false
 page-layout: full
 ---
 
+```{=html}
 <div class="landing-hero">
   <div class="landing-card">
     <div class="landing-brand">

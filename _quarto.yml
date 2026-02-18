@@ -13,8 +13,5 @@ format:
       - brand
     toc: true
     css: styles.css
-    html-math-method: katex
-    keep-md: false
-    html: true
 
 
