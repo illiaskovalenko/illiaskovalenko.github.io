@@ -1,0 +1,13 @@
+﻿---
+title: "Portfolio"
+---
+
+## Positionnement
+
+IngÃ©nierie pÃ©dagogique / Learning design orientÃ© diagnostic, structuration et impact.
+
+## AccÃ¨s rapide
+- [Projets](/fr/projects.html)
+- [MÃ©thodologie](/fr/method.html)
+- [CV](/fr/cv.html)
+- [Contact](/fr/contact.html)

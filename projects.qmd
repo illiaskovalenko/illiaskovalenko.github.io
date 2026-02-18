@@ -1,7 +1,0 @@
----
-title: "Projets"
----
-
-Sélection de projets structurés en études de cas (problème → diagnostic → conception → mise en œuvre → impact).
-
-> À compléter : 3 à 5 projets maximum.

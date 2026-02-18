@@ -1,0 +1,5 @@
+﻿---
+title: "MÃ©thodologie"
+---
+
+Cadre de travail : diagnostic â†’ design â†’ delivery â†’ Ã©valuation â†’ amÃ©lioration continue.

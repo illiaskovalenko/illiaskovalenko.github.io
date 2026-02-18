@@ -1,0 +1,25 @@
+project:
+  output-dir: docs
+  render:
+    - fr/*.qmd
+
+website:
+  navbar:
+    left:
+      - href: /fr/index.html
+        text: Accueil
+      - href: /fr/projects.html
+        text: Projets
+      - href: /fr/method.html
+        text: Méthode
+      - href: /fr/cv.html
+        text: CV
+      - href: /fr/contact.html
+        text: Contact
+    right:
+      - href: /en/index.html
+        text: EN
+
+format:
+  html:
+    lang: fr

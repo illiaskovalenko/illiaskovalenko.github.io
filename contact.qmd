@@ -1,7 +1,0 @@
----
-title: "Contact"
----
-
-- LinkedIn : à ajouter  
-- Email : à ajouter  
-- GitHub : https://github.com/illiaskovalenko

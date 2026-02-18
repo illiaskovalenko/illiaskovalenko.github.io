@@ -1,0 +1,7 @@
+﻿---
+title: "Projets"
+---
+
+SÃ©lection de projets structurÃ©s en Ã©tudes de cas (problÃ¨me â†’ diagnostic â†’ conception â†’ mise en Å“uvre â†’ impact).
+
+> Ã€ complÃ©ter : 3 Ã  5 projets maximum.

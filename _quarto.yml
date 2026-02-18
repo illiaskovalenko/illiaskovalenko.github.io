@@ -2,21 +2,6 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "Illia Kovalenko"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Accueil
-      - href: projects.qmd
-        text: Projets
-      - href: methodo.qmd
-        text: Méthodologie
-      - href: cv.qmd
-        text: CV
-      - href: contact.qmd
-        text: Contact
-
 format:
   html:
     theme:
@@ -24,5 +9,11 @@ format:
       - brand
     toc: true
     css: styles.css
-    lang: fr
+
+# cd C:\Users\koval\OneDrive\portfolio\illiaskovalenko.github.io
+## quarto render
+# Depuis PS, 
+## git add -A
+## git commit -m "Update portfolio"
+## git push
 

@@ -1,5 +1,0 @@
----
-title: "CV"
----
-
-Version web synthétique + lien vers une version PDF (à ajouter).

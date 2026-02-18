@@ -1,38 +1,59 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projets",
-    "section": "",
-    "text": "Sélection de projets structurés en études de cas (problème → diagnostic → conception → mise en œuvre → impact).\n\nÀ compléter : 3 à 5 projets maximum."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Ingénierie pédagogique / Learning design orienté diagnostic, structuration et impact."
+    "text": "Choose your language / Choisissez votre langue\n\nEnglish → /en/\nFrançais → /fr/"
   },
   {
-    "objectID": "index.html#positionnement",
-    "href": "index.html#positionnement",
+    "objectID": "fr/method.html",
+    "href": "fr/method.html",
+    "title": "MÃ©thodologie",
+    "section": "",
+    "text": "Cadre de travail : diagnostic â†’ design â†’ delivery â†’ Ã©valuation â†’ amÃ©lioration continue."
+  },
+  {
+    "objectID": "fr/cv.html",
+    "href": "fr/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Version web synthÃ©tique + lien vers une version PDF (Ã  ajouter)."
+  },
+  {
+    "objectID": "en/projects.html",
+    "href": "en/projects.html",
+    "title": "Projets",
+    "section": "",
+    "text": "SÃ©lection de projets structurÃ©s en Ã©tudes de cas (problÃ¨me â†’ diagnostic â†’ conception â†’ mise en Å“uvre â†’ impact).\n\nÃ€ complÃ©ter : 3 Ã  5 projets maximum."
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Ingénierie pédagogique / Learning design orienté diagnostic, structuration et impact."
+    "text": "IngÃ©nierie pÃ©dagogique / Learning design orientÃ© diagnostic, structuration et impact."
   },
   {
-    "objectID": "index.html#accès-rapide",
-    "href": "index.html#accès-rapide",
+    "objectID": "en/index.html#positionnement",
+    "href": "en/index.html#positionnement",
     "title": "Portfolio",
-    "section": "Accès rapide",
-    "text": "Accès rapide\n\nProjets\nMéthodologie\nCV\nContact"
+    "section": "",
+    "text": "IngÃ©nierie pÃ©dagogique / Learning design orientÃ© diagnostic, structuration et impact."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "en/index.html#accãs-rapide",
+    "href": "en/index.html#accãs-rapide",
+    "title": "Portfolio",
+    "section": "AccÃ¨s rapide",
+    "text": "AccÃ¨s rapide\n\nProjets\nMÃ©thodologie\nCV\nContact"
+  },
+  {
+    "objectID": "en/contact.html",
+    "href": "en/contact.html",
     "title": "Contact",
     "section": "",
-    "text": "LinkedIn : à ajouter\n\nEmail : à ajouter\n\nGitHub : https://github.com/illiaskovalenko"
+    "text": "LinkedIn : Ã  ajouter\n\nEmail : Ã  ajouter\n\nGitHub : https://github.com/illiaskovalenko"
   },
   {
     "objectID": "about.html",
@@ -42,17 +63,52 @@
     "text": "About this site"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
+    "objectID": "en/cv.html",
+    "href": "en/cv.html",
     "title": "CV",
     "section": "",
-    "text": "Version web synthétique + lien vers une version PDF (à ajouter)."
+    "text": "Version web synthÃ©tique + lien vers une version PDF (Ã  ajouter)."
   },
   {
-    "objectID": "methodo.html",
-    "href": "methodo.html",
-    "title": "Méthodologie",
+    "objectID": "en/method.html",
+    "href": "en/method.html",
+    "title": "MÃ©thodologie",
     "section": "",
-    "text": "Cadre de travail : diagnostic → design → delivery → évaluation → amélioration continue."
+    "text": "Cadre de travail : diagnostic â†’ design â†’ delivery â†’ Ã©valuation â†’ amÃ©lioration continue."
+  },
+  {
+    "objectID": "fr/contact.html",
+    "href": "fr/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "LinkedIn : Ã  ajouter\n\nEmail : Ã  ajouter\n\nGitHub : https://github.com/illiaskovalenko"
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "IngÃ©nierie pÃ©dagogique / Learning design orientÃ© diagnostic, structuration et impact."
+  },
+  {
+    "objectID": "fr/index.html#positionnement",
+    "href": "fr/index.html#positionnement",
+    "title": "Portfolio",
+    "section": "",
+    "text": "IngÃ©nierie pÃ©dagogique / Learning design orientÃ© diagnostic, structuration et impact."
+  },
+  {
+    "objectID": "fr/index.html#accãs-rapide",
+    "href": "fr/index.html#accãs-rapide",
+    "title": "Portfolio",
+    "section": "AccÃ¨s rapide",
+    "text": "AccÃ¨s rapide\n\nProjets\nMÃ©thodologie\nCV\nContact"
+  },
+  {
+    "objectID": "fr/projects.html",
+    "href": "fr/projects.html",
+    "title": "Projets",
+    "section": "",
+    "text": "SÃ©lection de projets structurÃ©s en Ã©tudes de cas (problÃ¨me â†’ diagnostic â†’ conception â†’ mise en Å“uvre â†’ impact).\n\nÃ€ complÃ©ter : 3 Ã  5 projets maximum."
   }
 ]
