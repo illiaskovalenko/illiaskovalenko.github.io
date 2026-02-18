@@ -13,5 +13,8 @@ format:
       - brand
     toc: true
     css: styles.css
+    html-math-method: katex
+    include-after-body: []
+    html: true
 
 
