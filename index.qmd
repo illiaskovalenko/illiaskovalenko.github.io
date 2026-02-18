@@ -24,12 +24,12 @@ Language Choice / Choix de la langue
 :::
 
 ::: {.landing-actions}
-[English](en/index.html){.btn .btn-primary .btn-lg}
-[Français](fr/index.html){.btn .btn-outline-primary .btn-lg}
+[English](en/index.html){.landing-btn .landing-btn-primary}
+[Français](fr/index.html){.landing-btn .landing-btn-outline}
 :::
 
 ::: {.landing-foot}
-EPHE-PSL · UCLouvain {.dot} • {.dot} Paris / Bruxelles
+EPHE-PSL · UCLouvain • Paris / Bruxelles
 :::
 
 :::
