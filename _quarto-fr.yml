@@ -1,10 +1,13 @@
 project:
+  output-dir: docs/fr
   render:
     - fr/*.qmd
 
 website:
   title: "Illia Kovalenko"
   navbar:
+    background: primary
+    search: true
     left:
       - href: /fr/index.html
         text: Accueil
