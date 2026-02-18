@@ -14,7 +14,7 @@ format:
     toc: true
     css: styles.css
     html-math-method: katex
-    include-after-body: []
+    keep-md: false
     html: true
 
 
