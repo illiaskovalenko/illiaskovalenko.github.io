@@ -9,21 +9,21 @@ website:
     background: primary
     search: true
     left:
-      - href: en_index.html
+      - href: /en/index.html
         text: Home
-      - href: en_projects.html
+      - href: /en/en_projects.html
         text: Projects
-      - href: en_method.html
+      - href: /en/en_method.html
         text: Method
-      - href: en_cv.html
+      - href: /en/en_cv.html
         text: CV
-      - href: en_contact.html
+      - href: /en/en_contact.html
         text: Contact
     right:
       - text: "English"
-        href: en_index.html
+        href: /en/index.html
       - text: "Français"
-        href: ../fr/fr_index.html
+        href: /fr/index.html
 
 format:
   html:
