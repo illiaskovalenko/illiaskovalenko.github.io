@@ -10,11 +10,11 @@ page-layout: full
 
 <div style="display:flex; gap:2rem; margin-top:2rem;">
 
-<a href="./en/index.html" style="padding:1rem 1.5rem; border:1px solid #ddd; border-radius:8px; text-decoration:none;">
+<a href="docs/en/en_index.html" style="padding:1rem 1.5rem; border:1px solid #ddd; border-radius:8px; text-decoration:none;">
 <strong>English</strong>
 </a>
 
-<a href="./fr/index.html" style="padding:1rem 1.5rem; border:1px solid #ddd; border-radius:8px; text-decoration:none;">
+<a href="docs/fr/fr_index.html" style="padding:1rem 1.5rem; border:1px solid #ddd; border-radius:8px; text-decoration:none;">
 <strong>Français</strong>
 </a>
 

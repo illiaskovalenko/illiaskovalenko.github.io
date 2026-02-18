@@ -1,7 +1,5 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - assets
   render:
     - index.qmd

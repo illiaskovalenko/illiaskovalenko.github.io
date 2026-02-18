@@ -1,6 +1,7 @@
 project:
+  output-dir: docs/fr
   render:
-    - fr/*.qmd
+    - fr_*.qmd
 
 website:
   title: "Illia Kovalenko"
@@ -8,21 +9,21 @@ website:
     background: primary
     search: true
     left:
-      - href: /fr/index.html
+      - href: /fr/fr_index.html
         text: Accueil
-      - href: /fr/projects.html
+      - href: /fr/fr_projects.html
         text: Projets
-      - href: /fr/method.html
+      - href: /fr/fr_method.html
         text: Méthode
-      - href: /fr/cv.html
+      - href: /fr/fr_cv.html
         text: CV
-      - href: /fr/contact.html
+      - href: /fr/fr_contact.html
         text: Contact
     right:
       - text: "English"
-        href: docs/en/index.html
+        href: /en/en_index.html
       - text: "Français"
-        href: docs/fr/index.html
+        href: /fr/fr_index.html
 
 format:
   html:
