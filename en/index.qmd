@@ -7,10 +7,9 @@ title: "Instructional Design and Learning Transformation"
 
 ::: {.callout-note title="À propos de moi"}
 ::: {.hero-text}
-*Profile transitioning toward instructional design, grounded in analytical research practice*
-
-*#learning, #structuring, #transforming*
+Profile transitioning toward instructional design, grounded in analytical research practice
 :::
+*#learning, #structuring, #transforming*
 :::
 :::
 
