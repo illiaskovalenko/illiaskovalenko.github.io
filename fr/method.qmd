@@ -2,19 +2,119 @@
 title: "Démarche"
 ---
 
-# Une transition structurée vers l’ingénierie pédagogique
+# Démarche et principes d’action
 
-Ma pratique s’appuie sur des compétences développées en recherche :
+Mon approche repose sur une articulation constante entre rigueur analytique et pragmatisme opérationnel.
 
-- Analyse approfondie des sources  
-- Modélisation de systèmes complexes  
-- Structuration logique de l’information  
-- Rigueur méthodologique  
+Mon travail doctoral s’inscrit dans une perspective d’histoire connectée.
+Il vise à dépasser les cadres cloisonnés des histoires nationales pour analyser les circulations, les mobilités et les interconnexions entre acteurs, objets et pratiques.
 
-J’explore leur application à la conception pédagogique selon trois principes :
+Cette approche implique de considérer tout phénomène comme le produit d’un réseau de relations dynamiques plutôt que comme une entité isolée.
 
-## 1. Clarifier les compétences avant les contenus
+En tant qu’historien du social et du culturel, héritier du tournant critique en sciences humaines et sociales, je ne raisonne ni en catégories globales figées, ni en abstractions générales.
+Mon analyse oscille entre le collectif et l’individuel : chaque règle, chaque dispositif, chaque méthode est compris comme le résultat de dynamiques sociales, institutionnelles et individuelles imbriquées.
 
-## 2. Construire une cohérence entre objectifs, activités et évaluation
+Cette posture épistémique structure également ma manière d’aborder les systèmes pédagogiques ou organisationnels : ils sont appréhendés comme des ensembles d’interdépendances, traversés par des logiques multiples et parfois concurrentes.
 
-## 3. Concevoir l’apprentissage comme un système évolutif
+Concrètement, cela se traduit par une méthode structurée d’analyse, de modélisation et de décision.
+
+---
+
+## 1. Prise de décision systématique
+
+Face à une situation complexe, je procède en plusieurs étapes :
+
+### Analyse approfondie
+
+- Étude de la littérature scientifique ou réglementaire pertinente.
+- Lecture des rapports, données et documents disponibles.
+- Échanges avec les acteurs concernés.
+
+L’objectif est double :
+
+- Comprendre les principes généraux de décision (valeurs institutionnelles, processus existants, interfaces disponibles).
+- Comprendre les enjeux concrets (performance réelle, performance attendue, écart entre les deux).
+
+### Formalisation
+
+- Identification des leviers d’action.
+- Identification des freins et contraintes.
+- Analyse des facteurs facilitateurs ou inhibiteurs.
+- Scénarisation de plusieurs options décisionnelles, avec projection de leurs conséquences dans une perspective multi-acteurs.
+
+La décision intervient à l’issue de cette modélisation.
+
+---
+
+## 2. Outils de structuration
+
+Je privilégie :
+
+- Schémas et cartographies conceptuelles.
+- Mind mapping.
+- Tableaux d’analyse structurée.
+- Représentations systémiques des flux et des interactions.
+
+Cette manière de structurer l’information correspond à une compréhension en réseau des situations complexes, comparable aux mécanismes d’apprentissage et de mémorisation.
+
+Ces représentations me permettent d’objectiver les tensions, de visualiser les interdépendances et de sécuriser les choix opérationnels.
+
+La visualisation précède souvent l’action.
+
+---
+
+## 3. Gestion des désaccords
+
+En cas de conflit ou de divergence :
+
+- Analyse des positions et des valeurs de chaque acteur.
+- Identification des contraintes réelles.
+- Clarification des objectifs implicites et explicites.
+
+Je propose ensuite des solutions de compromis visant à préserver :
+
+- La cohérence institutionnelle.
+- L’équité entre les parties.
+- Les objectifs fondamentaux du dispositif.
+
+---
+
+## 4. Priorisation en contexte d’urgence
+
+Lorsque tout paraît urgent, j’évalue :
+
+- Les conséquences d’un retard pour chaque acteur.
+- L’impact réel d’une action menée dans les délais.
+- Les possibilités de négociation.
+- Les contraintes juridiques et réglementaires.
+
+La priorisation repose donc sur une analyse d’impact multi-niveaux, et non sur la pression immédiate.
+
+---
+
+## 5. Rigueur et pragmatisme
+
+Je combine rigueur méthodologique et pragmatisme.
+
+Les règles et procédures ne sont pas des fins en soi :  
+elles existent pour garantir l’équité, la cohérence et la qualité.
+
+- Lorsque la règle est indispensable (égalité, conformité légale), elle doit être appliquée strictement.
+- Lorsque la règle devient inefficace ou contre-productive, elle doit être réévaluée et, si nécessaire, réécrite.
+
+L’objectif reste constant : assurer le bon fonctionnement du système et la qualité du dispositif d’apprentissage.
+
+---
+
+## 6. Infrastructure et outils
+
+Mon travail s’appuie sur :
+
+- Formats ouverts (Markdown, Quarto).
+- LaTeX.
+- R.
+- Zotero.
+- Gestion documentaire sécurisée et structurée.
+- Logique de reproductibilité.
+
+Je considère les outils comme une infrastructure au service de la clarté, de la traçabilité et de la cohérence.

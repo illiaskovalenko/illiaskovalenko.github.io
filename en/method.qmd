@@ -2,19 +2,119 @@
 title: "Approach"
 ---
 
-# A structured transition toward instructional design
+# Approach and Working Principles
 
-My approach builds on research-developed competencies:
+My approach combines analytical rigor with operational pragmatism.
 
-- Deep analytical work  
-- Complex system modeling  
-- Logical structuring  
-- Methodological rigor  
+My doctoral research is grounded in connected history.
+It seeks to move beyond compartmentalized national narratives in order to analyze circulation, mobility, and the interconnection of actors, objects, and practices.
 
-I apply these principles to learning design through:
+This perspective considers every phenomenon as the product of dynamic relational networks rather than as an isolated entity.
 
-## 1. Clarifying competencies before content
+As a social and cultural historian shaped by the critical turn in the humanities and social sciences, I do not reason in fixed global categories or abstract generalizations.
+My analytical stance moves between the collective and the individual: every rule, system, method, or institution is understood as the outcome of intertwined social, institutional, and individual dynamics.
 
-## 2. Ensuring alignment between objectives, activities and assessment
+This epistemic position informs how I approach pedagogical and organizational systems: they are viewed as interdependent structures shaped by multiple, sometimes competing logics.
 
-## 3. Viewing learning as an evolving system
+Concretely, this epistemic stance translates into a structured method of analysis, modeling, and decision-making.
+
+---
+
+## 1. Systematic Decision-Making
+
+When facing complex situations, I proceed in stages.
+
+### In-depth analysis
+
+- Review of relevant scientific or regulatory literature.
+- Examination of available reports and documentation.
+- Structured discussions with involved stakeholders.
+
+The objective is to:
+
+- Understand general decision principles (institutional values, existing processes, available interfaces).
+- Identify concrete performance gaps (current performance vs. expected performance).
+
+### Formal modeling
+
+- Identification of action levers.
+- Identification of constraints and barriers.
+- Mapping of enabling and inhibiting factors.
+- Scenario modeling of alternative decisions and their multi-stakeholder consequences.
+
+The decision follows this structured modeling process.
+
+---
+
+## 2. Structuring Tools
+
+I rely on:
+
+- Conceptual diagrams and system maps.
+- Mind mapping.
+- Structured analytical tables.
+- Flow and interaction mapping.
+
+This network-based representation of complex situations mirrors how learning and cognition operate.
+
+These representations help objectify tensions, clarify interdependencies, and support well-grounded operational decisions.
+
+Visualization often precedes action.
+
+---
+
+## 3. Managing Disagreement
+
+In cases of conflict:
+
+- I analyze each stakeholder’s position and values.
+- I identify underlying constraints.
+- I clarify implicit and explicit objectives.
+
+I then propose compromise solutions aimed at preserving:
+
+- Institutional coherence.
+- Equity between parties.
+- Fundamental objectives of the system.
+
+---
+
+## 4. Prioritization Under Pressure
+
+When everything appears urgent, I assess:
+
+- Consequences of delay for each stakeholder.
+- Real impact of timely execution.
+- Possibility of negotiation.
+- Legal and regulatory constraints.
+
+Prioritization is therefore impact-based, not pressure-driven.
+
+---
+
+## 5. Rigor and Pragmatism
+
+I combine methodological rigor with pragmatic flexibility.
+
+Rules and procedures are not ontological entities;  
+they exist to ensure equity, coherence, and quality.
+
+- Non-negotiable rules (legal compliance, fairness) must be strictly applied.
+- Inefficient or counterproductive rules should be reassessed and rewritten.
+
+The objective remains constant: ensuring systemic coherence and high-quality learning environments.
+
+---
+
+## 6. Infrastructure and Tools
+
+My workflow relies on:
+
+- Open formats (Markdown, Quarto).
+- LaTeX.
+- R.
+- Zotero.
+- Secure and structured documentation systems.
+- Reproducible workflows.
+
+Tools are infrastructure: they serve clarity, traceability, and coherence.

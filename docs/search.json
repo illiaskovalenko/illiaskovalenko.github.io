@@ -193,6 +193,48 @@
     "href": "en/method.html",
     "title": "Approach",
     "section": "",
-    "text": "My approach builds on research-developed competencies:\n\nDeep analytical work\n\nComplex system modeling\n\nLogical structuring\n\nMethodological rigor\n\nI apply these principles to learning design through:"
+    "text": "My approach combines analytical rigor with operational pragmatism.\nMy doctoral research is grounded in connected history. It seeks to move beyond compartmentalized national narratives in order to analyze circulation, mobility, and the interconnection of actors, objects, and practices.\nThis perspective considers every phenomenon as the product of dynamic relational networks rather than as an isolated entity.\nAs a social and cultural historian shaped by the critical turn in the humanities and social sciences, I do not reason in fixed global categories or abstract generalizations. My analytical stance moves between the collective and the individual: every rule, system, method, or institution is understood as the outcome of intertwined social, institutional, and individual dynamics.\nThis epistemic position informs how I approach pedagogical and organizational systems: they are viewed as interdependent structures shaped by multiple, sometimes competing logics.\nConcretely, this epistemic stance translates into a structured method of analysis, modeling, and decision-making.\n\n\n\nWhen facing complex situations, I proceed in stages.\n\n\n\nReview of relevant scientific or regulatory literature.\nExamination of available reports and documentation.\nStructured discussions with involved stakeholders.\n\nThe objective is to:\n\nUnderstand general decision principles (institutional values, existing processes, available interfaces).\nIdentify concrete performance gaps (current performance vs. expected performance).\n\n\n\n\n\nIdentification of action levers.\nIdentification of constraints and barriers.\nMapping of enabling and inhibiting factors.\nScenario modeling of alternative decisions and their multi-stakeholder consequences.\n\nThe decision follows this structured modeling process.\n\n\n\n\n\nI rely on:\n\nConceptual diagrams and system maps.\nMind mapping.\nStructured analytical tables.\nFlow and interaction mapping.\n\nThis network-based representation of complex situations mirrors how learning and cognition operate.\nThese representations help objectify tensions, clarify interdependencies, and support well-grounded operational decisions.\nVisualization often precedes action.\n\n\n\n\nIn cases of conflict:\n\nI analyze each stakeholder’s position and values.\nI identify underlying constraints.\nI clarify implicit and explicit objectives.\n\nI then propose compromise solutions aimed at preserving:\n\nInstitutional coherence.\nEquity between parties.\nFundamental objectives of the system.\n\n\n\n\n\nWhen everything appears urgent, I assess:\n\nConsequences of delay for each stakeholder.\nReal impact of timely execution.\nPossibility of negotiation.\nLegal and regulatory constraints.\n\nPrioritization is therefore impact-based, not pressure-driven.\n\n\n\n\nI combine methodological rigor with pragmatic flexibility.\nRules and procedures are not ontological entities;\nthey exist to ensure equity, coherence, and quality.\n\nNon-negotiable rules (legal compliance, fairness) must be strictly applied.\nInefficient or counterproductive rules should be reassessed and rewritten.\n\nThe objective remains constant: ensuring systemic coherence and high-quality learning environments.\n\n\n\n\nMy workflow relies on:\n\nOpen formats (Markdown, Quarto).\nLaTeX.\n\n\n\nZotero.\nSecure and structured documentation systems.\nReproducible workflows.\n\nTools are infrastructure: they serve clarity, traceability, and coherence."
+  },
+  {
+    "objectID": "en/method.html#systematic-decision-making",
+    "href": "en/method.html#systematic-decision-making",
+    "title": "Approach",
+    "section": "",
+    "text": "When facing complex situations, I proceed in stages.\n\n\n\nReview of relevant scientific or regulatory literature.\nExamination of available reports and documentation.\nStructured discussions with involved stakeholders.\n\nThe objective is to:\n\nUnderstand general decision principles (institutional values, existing processes, available interfaces).\nIdentify concrete performance gaps (current performance vs. expected performance).\n\n\n\n\n\nIdentification of action levers.\nIdentification of constraints and barriers.\nMapping of enabling and inhibiting factors.\nScenario modeling of alternative decisions and their multi-stakeholder consequences.\n\nThe decision follows this structured modeling process."
+  },
+  {
+    "objectID": "en/method.html#structuring-tools",
+    "href": "en/method.html#structuring-tools",
+    "title": "Approach",
+    "section": "",
+    "text": "I rely on:\n\nConceptual diagrams and system maps.\nMind mapping.\nStructured analytical tables.\nFlow and interaction mapping.\n\nThis network-based representation of complex situations mirrors how learning and cognition operate.\nThese representations help objectify tensions, clarify interdependencies, and support well-grounded operational decisions.\nVisualization often precedes action."
+  },
+  {
+    "objectID": "en/method.html#managing-disagreement",
+    "href": "en/method.html#managing-disagreement",
+    "title": "Approach",
+    "section": "",
+    "text": "In cases of conflict:\n\nI analyze each stakeholder’s position and values.\nI identify underlying constraints.\nI clarify implicit and explicit objectives.\n\nI then propose compromise solutions aimed at preserving:\n\nInstitutional coherence.\nEquity between parties.\nFundamental objectives of the system."
+  },
+  {
+    "objectID": "en/method.html#prioritization-under-pressure",
+    "href": "en/method.html#prioritization-under-pressure",
+    "title": "Approach",
+    "section": "",
+    "text": "When everything appears urgent, I assess:\n\nConsequences of delay for each stakeholder.\nReal impact of timely execution.\nPossibility of negotiation.\nLegal and regulatory constraints.\n\nPrioritization is therefore impact-based, not pressure-driven."
+  },
+  {
+    "objectID": "en/method.html#rigor-and-pragmatism",
+    "href": "en/method.html#rigor-and-pragmatism",
+    "title": "Approach",
+    "section": "",
+    "text": "I combine methodological rigor with pragmatic flexibility.\nRules and procedures are not ontological entities;\nthey exist to ensure equity, coherence, and quality.\n\nNon-negotiable rules (legal compliance, fairness) must be strictly applied.\nInefficient or counterproductive rules should be reassessed and rewritten.\n\nThe objective remains constant: ensuring systemic coherence and high-quality learning environments."
+  },
+  {
+    "objectID": "en/method.html#infrastructure-and-tools",
+    "href": "en/method.html#infrastructure-and-tools",
+    "title": "Approach",
+    "section": "",
+    "text": "My workflow relies on:\n\nOpen formats (Markdown, Quarto).\nLaTeX.\n\n\n\nZotero.\nSecure and structured documentation systems.\nReproducible workflows.\n\nTools are infrastructure: they serve clarity, traceability, and coherence."
   }
 ]
