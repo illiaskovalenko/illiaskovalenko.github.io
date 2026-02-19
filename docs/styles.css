@@ -11,7 +11,7 @@
     padding: 3.5rem 1.5rem;
     background:
       radial-gradient(1200px 600px at 60% 0%, var(--oc-primary-weak), rgba(255,255,255,0)),
-      linear-gradient(180deg, var(--oc-paper), #fbf7e);
+      linear-gradient(180deg, var(--oc-paper), #FBF7EF);
   }
   
   .landing-card{
