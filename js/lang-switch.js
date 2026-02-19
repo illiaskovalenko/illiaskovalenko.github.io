@@ -1,42 +1,22 @@
 document.addEventListener("DOMContentLoaded", () => {
     const path = window.location.pathname;
   
-    const btnEN = document.getElementById("lang-en");
-    const btnFR = document.getElementById("lang-fr");
-  
     const inEN = path.startsWith("/en/");
     const inFR = path.startsWith("/fr/");
   
-    // If not on a language page, hide both
-    if (!inEN && !inFR) {
-      if (btnEN) btnEN.style.display = "none";
-      if (btnFR) btnFR.style.display = "none";
-      return;
-    }
+    if (!inEN && !inFR) return;
   
-    // Compute mirror path
-    let mirrorPath;
-    if (inEN) mirrorPath = path.replace(/^\/en\//, "/fr/");
-    if (inFR) mirrorPath = path.replace(/^\/fr\//, "/en/");
+    const mirrorPath = inEN
+      ? path.replace(/^\/en\//, "/fr/")
+      : path.replace(/^\/fr\//, "/en/");
   
-    // Keep query/hash
-    const mirrorUrl = mirrorPath + window.location.search + window.location.hash;
+    const mirrorUrl =
+      mirrorPath + window.location.search + window.location.hash;
   
-    if (inEN) {
-      // show FR only
-      if (btnEN) btnEN.style.display = "none";
-      if (btnFR) {
-        btnFR.style.display = "";
-        btnFR.setAttribute("href", mirrorUrl);
-      }
-    }
+    // récupère le seul bouton langue dans la navbar
+    const langLink = document.querySelector("nav .navbar-nav a:last-child");
   
-    if (inFR) {
-      // show EN only
-      if (btnFR) btnFR.style.display = "none";
-      if (btnEN) {
-        btnEN.style.display = "";
-        btnEN.setAttribute("href", mirrorUrl);
-      }
+    if (langLink) {
+      langLink.setAttribute("href", mirrorUrl);
     }
   });  

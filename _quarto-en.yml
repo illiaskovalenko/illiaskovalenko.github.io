@@ -22,11 +22,7 @@ website:
         text: Contact
     right:
       - text: Français
-        href: "#"
-        id: lang-fr
-      - text: English
-        href: "#"
-        id: lang-en
+        href: /fr/
 
 format:
   html:
