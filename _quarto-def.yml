@@ -7,3 +7,11 @@ website:
   favicon: images/favicon.ico
   navbar: false
   search: false
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    toc: true
+    css: styles.css
