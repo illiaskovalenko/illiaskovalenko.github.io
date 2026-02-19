@@ -2,21 +2,331 @@
 title: "Projets"
 ---
 
-Ces projets illustrent une capacité à structurer un dispositif d’apprentissage à partir d’un problème identifié.
+# Reconfiguration d’un enseignement de méthodologie expérimentale
 
-# Refonte d’un cours de méthodologie
+## 1. Contexte institutionnel
 
-## Contexte
-Enseignement universitaire en méthodologie de recherche.
+Université Paris Nanterre  
+UFR SPSE – Sciences psychologiques et sciences de l’éducation  
 
-## Enjeu
-Rendre les compétences méthodologiques réellement opérationnelles pour les étudiants.
+::: {.text-center}
+![](/images/logos/nanterre.png){height=80px}
+:::
 
-## Démarche
-- Identification des compétences attendues  
-- Clarification des objectifs  
-- Mise en place d’un fil conducteur (analyse d’un article réel)  
-- Renforcement du travail appliqué et collaboratif  
+Licence 2 (L2) – Mention Psychologie  
 
-## Résultat
-Meilleure cohérence pédagogique et engagement renforcé.
+Travaux dirigés de méthodologie expérimentale  
+Responsable pédagogique : Jean-Baptiste Légal ([jlegal@parisnanterre.fr](mailto:jlegal@parisnanterre.fr))
+
+---
+
+## 2. Objectifs officiellement déclarés
+
+Les objectifs institutionnels du cours étaient formulés ainsi :
+
+- Manipuler les notions théoriques comme :
+  - Test d’hypothèse nulle
+  - Erreurs de type I et II
+  - Tests statistiques utilisés en psychologie
+
+- Décrire scientifiquement :
+  - Effets principaux
+  - Interactions (1er et 2e ordre)
+  - Absence d’interaction
+
+- Pré-enregistrer une recherche
+- Utiliser les principales normes APA 7
+
+Ces objectifs répondent au cadre formel du diplôme national.
+
+---
+
+## 3. Diagnostic : incohérence entre objectifs déclarés et compétences réellement attendues
+
+Mon analyse du dispositif, croisée avec les retours étudiants, a mis en évidence un décalage structurant :
+
+- Les connaissances théoriques sur la méthode expérimentale sont déjà enseignées en L1.
+- Les normes APA sont travaillées ailleurs dans le cursus.
+- Les étudiants sont évalués, dans les faits, sur leur capacité à comprendre et structurer un raisonnement scientifique.
+
+Le cœur réel du cours était donc implicite :
+
+::: {.callout-important}
+Lire, interpréter et structurer un article scientifique.
+:::
+
+Or cette compétence centrale n’était ni formulée explicitement, ni structurante dans l’architecture pédagogique.
+
+J’ai ainsi pointé une incohérence entre :
+- les objectifs affichés (centrés sur des contenus),
+- et les compétences effectivement mobilisées (analyse, structuration, rédaction méthodologique).
+
+---
+
+## 4. Problèmes identifiés
+
+### a) Dispersion et redondance
+
+- Redondance avec d’autres enseignements (APA, théorie).
+- Accumulation de contenus sans hiérarchisation.
+- Faible cohérence curriculaire.
+
+### b) Incohérence dans la section statistique
+
+Double tension :
+
+1. Présentation extensive de nombreux tests au-delà du niveau L2.
+2. Décalage avec les pratiques scientifiques réelles (où les modèles de régression OLS dominent).
+
+Les régressions n’étaient qu’effleurées, jugées trop complexes pour le niveau, alors même qu’elles structurent les articles scientifiques contemporains.
+
+### c) Absence de fil conducteur
+
+Les notions apparaissaient comme des blocs isolés, sans intégration dans une compétence unifiée.
+
+---
+
+## 5. Apport : recentrage et red thread approach
+
+J’ai proposé de reformuler implicitement l’architecture du cours autour d’une compétence centrale :
+
+Lire, interpréter et structurer un article scientifique.
+
+Pour cela, j’ai introduit une logique de **fil rouge** (red thread approach) :
+
+- Analyse progressive d’articles réels.
+- Encapsulation des notions théoriques dans des situations concrètes.
+- Mise en cohérence des variables, hypothèses, plans expérimentaux et résultats.
+
+Les connaissances statistiques deviennent des outils contextualisés.
+
+L’objectif n’est pas de maîtriser le mécanisme mathématique des tests, mais de comprendre :
+
+- ce que le test permet d’inférer,
+- dans quelles conditions il est pertinent,
+- comment interpréter ses résultats.
+
+Les normes APA ont été retirées du périmètre du cours afin de renforcer la cohérence curriculaire.
+
+---
+
+## 6. Alignement renforcé avec le pré-enregistrement
+
+Le pré-enregistrement a été repositionné comme cadre opératoire structurant.
+
+J’ai proposé d’augmenter les exercices d’entraînement au pré-enregistrement pendant le semestre, afin de développer progressivement :
+
+- La formulation claire des hypothèses.
+- La structuration du contexte théorique.
+- La description précise du plan expérimental.
+- L’anticipation de la logique d’analyse.
+
+L’objectif est de construire le socle des compétences nécessaires à la rédaction future d’articles et de rapports d’expérience, sans prétendre former encore à la rédaction complète d’un article scientifique.
+
+---
+
+## 7. Modification des évaluations
+
+Évaluation initiale :
+- Examen sur table (50 %)
+- Dossier de pré-enregistrement (50 %)
+
+Modifications adoptées :
+
+- Suppression de l’exercice APA.
+- Refondation des trois exercices restants à partir d’articles scientifiques réels.
+- Introduction accrue d’exercices de rédaction (formulation d’hypothèses, structuration logique), notamment pour limiter les effets de l’IA générative.
+- Rééquilibrage des coefficients :  
+  - 70 % examen sur table  
+  - 30 % dossier de pré-enregistrement  
+  (proposition de ma part)
+
+Certaines évolutions rédactionnelles ont été proposées par d’autres enseignants, dans une dynamique collective nourrie par la réflexion initiale engagée.
+
+---
+
+## 8. Arbitrages et impact institutionnel
+
+Certaines propositions ont été retenues partiellement :
+
+- Accent renforcé sur l’aspect pragmatique.
+- Centrage sur la compréhension des résultats plutôt que sur le calcul.
+- Maintien d’une approche pluraliste des tests statistiques.
+- Non-centralité des régressions OLS.
+
+Les modifications ont entraîné :
+
+- Mise à jour des maquettes d’évaluation au niveau des instances centrales.
+- Adaptation des supports pédagogiques.
+- Reconfiguration concrète du dispositif d’enseignement.
+
+---
+
+## 9. Enjeux contemporains : IA et robustesse évaluative
+
+L’essor de l’IA générative a nécessité :
+
+- Réduction du poids du travail rendu à domicile.
+- Renforcement des compétences vérifiées en présentiel.
+- Augmentation des tâches rédactionnelles sous contrainte.
+
+L’objectif est de garantir une évaluation effective des compétences analytiques, méthodologiques et rédactionnelles.
+
+# Pilotage et redressement organisationnel du NCEP (2023)
+
+## 1. Contexte institutionnel
+
+NCEP – Collège rattaché à l’Université Paris Lumières (UPL),  
+à l’interface de :
+
+- Université Paris Nanterre
+- Université Paris 8
+- Université Paris Lumières (structure conventionnelle)
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](/images/logos/lumieres.png){height=80px}
+:::
+
+::: {.column width="50%"}
+![](/images/logos/ncep.png){height=80px}
+:::
+
+:::
+
+Fonction exercée :
+Responsable administratif, pédagogique et financier (catégorie A)  
+Seul poste de management de l’unité.
+
+Nomination après 5 mois d’expérience comme assistant (cat. C), dans un contexte de vacance prolongée de direction de l'unité de formation.
+
+---
+
+## 2. Situation initiale
+
+Unité sans responsable depuis plusieurs mois.
+
+Complexité structurelle élevée :
+
+- Trois universités partenaires.
+- Multiplicité des hiérarchies.
+- Interfaces administratives et logicielles distinctes.
+- Étudiants rattachés juridiquement à deux universités, mais diplômés par une troisième.
+- Accumulation d’erreurs administratives et de dossiers incomplets depuis trois ans.
+
+Absence de formalisation des procédures et forte dépendance aux pratiques informelles.
+
+---
+
+## 3. Axe 1 – Redressement organisationnel et optimisation des workflows
+
+### Diagnostic
+
+- Processus non documentés.
+- Flux d’information fragmentés.
+- Multiplication des fichiers individuels non sécurisés.
+- Retards de paiement enseignants (dossiers incomplets).
+- Risque juridique et organisationnel élevé.
+- Etc.
+
+### Actions menées
+
+**1. Cartographie des processus (process mapping)**  
+- Analyse complète du cycle étudiant : inscription → diplomation.
+- Analyse du cycle enseignant : recrutement → planification → paiement.
+
+**2. Formalisation et standardisation (SOP – Standard Operating Procedures)**  
+- Rédaction d’un manuel de gestion interne.
+- Clarification des responsabilités et interfaces.
+
+**3. Gouvernance multi-acteurs**  
+- Interface active avec : RH, directions pédagogiques, IT, relations internationales.
+- Mapping des contacts et circuits décisionnels.
+- Stabilisation des circuits de validation.
+
+**4. Refonte de l’organisation documentaire**  
+- Migration vers Nextcloud sécurisé.
+- Centralisation des fichiers.
+- Structuration du travail collaboratif.
+
+**5. Optimisation opérationnelle (workflow optimization)**  
+- Rationalisation des cycles d’admission et d’inscription.
+- Réorganisation de la planification des cours.
+- Résolution des conflits de salles.
+- Clôture des dossiers de paiement restés en suspens depuis trois ans.
+
+### Résultats
+
+- Processus stabilisés.
+- Réduction des erreurs administratives.
+- Sécurisation des flux documentaires.
+- Paiements régularisés.
+- Visibilité accrue pour les partenaires institutionnels.
+
+---
+
+## 4. Axe 2 – Ré-ingénierie des maquettes de formation
+
+### Diagnostic
+
+- Incohérences dans les maquettes.
+- Cours non planifiés.
+- Écarts entre contenus réels et maquettes officielles.
+- Problèmes de calcul de crédits.
+- Paramétrage complexe dans APOGEE.
+
+### Actions
+
+- Audit complet des maquettes.
+- Identification des incohérences structurelles.
+- Remontée formalisée aux responsables pédagogiques.
+- Travail collaboratif avec les directions des études et ingénieurs pédagogiques (UPN / UP8).
+- Révision des intitulés, crédits, mutualisations de cours.
+
+### Résultats
+
+- Maquettes corrigées et validées.
+- Cohérence entre contenus réels et architecture officielle.
+- Disparition des “cours fantômes”.
+- Simplification du paramétrage APOGEE.
+- Clarté accrue pour étudiants et services.
+
+---
+
+## 5. Axe 3 – Renforcement de la compliance pédagogique
+
+### Enjeux
+
+- Respect des calendriers d’évaluation.
+- Conformité aux règlements universitaires.
+- Encadrement des soutenances de Master.
+- Gestion des stages.
+- Séjours obligatoires à l’étranger (L3).
+
+### Apports
+
+- Clarification des procédures d’évaluation.
+- Rappel et application stricte des règlements.
+- Arbitrage de situations conflictuelles.
+- Sécurisation juridique des validations.
+
+### Impact
+
+- Réduction des zones d’ambiguïté.
+- Sécurisation des décisions pédagogiques.
+- Amélioration de la lisibilité pour étudiants et enseignants.
+
+---
+
+## 6. Compétences mobilisées
+
+- Management d’unité
+- Gestion de projet multi-acteurs
+- Process mapping
+- Standardisation des procédures
+- Gouvernance inter-institutionnelle
+- Optimisation organisationnelle
+- Ré-ingénierie curriculaire
+- Compliance réglementaire
+- Conduite du changement
