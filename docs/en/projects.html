@@ -215,6 +215,49 @@ Improved clarity in requirements and structured delivery cycles.</p>
 </section>
 
 </main> <!-- /main -->
+document.addEventListener("DOMContentLoaded", function () {
+
+
+
+    const currentPath = window.location.pathname;
+
+    const isEN = currentPath.includes("/en/");
+
+    const isFR = currentPath.includes("/fr/");
+
+  
+
+    const links = document.querySelectorAll("[data-original-href]");
+
+  
+
+    links.forEach(link =&gt; {
+
+      const original = link.getAttribute("data-original-href");
+
+  
+
+      if (!original) return;
+
+  
+
+      let clean = original
+
+        .replace("/docs", "")
+
+        .replace("index.html", "")
+
+        .replace(/\/$/, "");
+
+  
+
+      link.setAttribute("href", clean + "/");
+
+    });
+
+  
+
+  });  
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
