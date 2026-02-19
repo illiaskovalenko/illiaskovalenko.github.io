@@ -1,8 +1,6 @@
 ---
-title: "Contact"
+title: "Me contacter"
 ---
-
-# Me contacter
 
 Je suis ouvert aux opportunités en ingénierie pédagogique et gestion de projets digital learning (alternance 1–2 ans).
 
