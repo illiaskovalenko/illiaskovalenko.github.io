@@ -94,7 +94,7 @@ Lire, interpréter et structurer un article scientifique.
 
 Pour cela, j’ai introduit une logique de **fil rouge** (red thread approach) :
 
-- Analyse progressive d’articles réels.
+- Analyse progressive d'un article scientifique réel, supplée par d'autres exemples tirés aux revues scientifiques.
 - Encapsulation des notions théoriques dans des situations concrètes.
 - Mise en cohérence des variables, hypothèses, plans expérimentaux et résultats.
 
@@ -433,7 +433,7 @@ Dans une étude historique, aucun dispositif ne peut être compris sans :
 - contraintes politiques,
 - contraintes institutionnelles.
 
-De la même manière, tout projet pédagogique exige une analyse des contraintes organisationnelles et budgétaires.
+De la même manière, tout projet pédagogique exige une analyse des contraintes organisationnelles et budgétaires en vue de son implémentation sur le terrain.
 
 ---
 
@@ -450,7 +450,7 @@ Cette compétence est directement mobilisable dans :
 
 - la construction de référentiels de compétences,
 - la définition d’objectifs pédagogiques,
-- l’alignement objectifs–activités–évaluation,
+- l’alignement objectifs – activités – évaluation,
 - la structuration d’un parcours cohérent.
 
 De même que j’analyse la cohérence interne d’un système de pensée ou d’un réseau éditorial,

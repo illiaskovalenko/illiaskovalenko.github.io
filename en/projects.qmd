@@ -2,21 +2,507 @@
 title: "Projects"
 ---
 
-These projects demonstrate the ability to structure learning environments based on clearly identified needs.
+# Redesign of a Research Methodology Course
 
-# Research Methodology Course Redesign
+## 1. Institutional Context
 
-## Context
-University-level teaching assignment.
+Université Paris Nanterre  
+UFR SPSE – Sciences psychologiques et sciences de l’éducation  
 
-## Objective
-Make methodological skills operational rather than theoretical.
+::: {.text-center}
+![](/images/logos/nanterre.png){height=80px}
+:::
 
-## Approach
-- Identification of target competencies  
-- Clarification of learning objectives  
-- Structured “red thread” approach  
-- Increased applied and collaborative work  
+Bachelor’s degree (L2 – Year 2), Psychology  
 
-## Outcome
-Improved pedagogical coherence and student engagement.
+Tutorial sessions in Experimental Methodology  
+Course lead: Jean-Baptiste Légal ([jlegal@parisnanterre.fr](mailto:jlegal@parisnanterre.fr))
+
+---
+
+## 2. Officially Declared Objectives
+
+The institutional syllabus defined the objectives as follows:
+
+- Master theoretical notions such as:
+  - Null hypothesis testing
+  - Type I and Type II errors
+  - Statistical tests used in psychology
+
+- Scientifically describe:
+  - Main effects
+  - First- and second-order interactions
+  - Absence of interaction
+
+- Pre-register a study
+- Apply APA 7 standards
+
+These objectives complied with national accreditation requirements.
+
+---
+
+## 3. Diagnosis: Misalignment Between Declared Objectives and Actual Competencies
+
+My analysis of the course structure, combined with student feedback, revealed a structural gap:
+
+- Theoretical foundations of experimental methodology are already taught in Year 1.
+- APA standards are covered elsewhere in the curriculum.
+- In practice, students are assessed on their ability to understand and structure scientific reasoning.
+
+The implicit core competency was therefore:
+
+::: {.callout-important}
+Reading, interpreting, and structuring a scientific article.
+:::
+
+However, this central competency was neither explicitly formulated nor structurally embedded in the course design.
+
+I identified a misalignment between:
+
+- Declared objectives (content-centered),
+- and actual competencies mobilized (analysis, structuring, methodological writing).
+
+---
+
+## 4. Identified Issues
+
+### a) Dispersion and Redundancy
+
+- Redundancy with other courses.
+- Accumulation of unprioritized content.
+- Weak curricular coherence.
+
+### b) Statistical Section Inconsistencies
+
+Two tensions emerged:
+
+1. Extensive presentation of numerous statistical tests beyond L2 level.
+2. Misalignment with actual research practice, where OLS regression models dominate.
+
+Regression models were only marginally addressed, considered too complex for L2 students.
+
+### c) Lack of a Unifying Thread
+
+Concepts appeared as isolated blocks rather than components of a coherent competency framework.
+
+---
+
+## 5. Contribution: Refocusing and Red Thread Approach
+
+I proposed reorganizing the course around a central competency:
+
+Reading, interpreting, and structuring a scientific article.
+
+To achieve this, I introduced a red thread approach:
+
+- Progressive analysis of one real scientific article, supplemented by other examples from scientific revues.
+- Contextualization of theoretical concepts.
+- Coherent integration of variables, hypotheses, experimental designs, and results.
+
+Statistical knowledge became a contextualized tool rather than an autonomous objective.
+
+The goal was not mathematical mastery, but understanding:
+
+- What a statistical test allows us to infer,
+- When it is appropriate,
+- How to interpret results.
+
+APA standards were removed from the course scope to reinforce curricular coherence.
+
+---
+
+## 6. Strengthened Alignment with Pre-registration
+
+Pre-registration was repositioned as the structuring operational framework.
+
+I proposed increasing in-class pre-registration exercises in order to progressively develop:
+
+- Clear hypothesis formulation,
+- Structured theoretical context,
+- Precise experimental design description,
+- Anticipation of analytical logic.
+
+The objective was to build foundational competencies required for future academic writing, without claiming to train students yet in full article production.
+
+---
+
+## 7. Assessment Redesign
+
+Initial structure:
+- 50% in-class exam
+- 50% pre-registration project
+
+Adopted modifications:
+
+- Removal of the APA exercise.
+- Redesign of remaining exercises based on real scientific articles.
+- Increased writing tasks (hypothesis formulation, logical structuring) to counterbalance generative AI use.
+- Rebalancing:
+  - 70% in-class exam
+  - 30% pre-registration project  
+  (proposal initiated by me)
+
+Some additional writing adjustments were collectively proposed by colleagues following the initial redesign.
+
+---
+
+## 8. Institutional Impact
+
+Adopted changes led to:
+
+- Formal update of assessment frameworks at institutional level.
+- Revision of teaching materials.
+- Concrete restructuring of the course architecture.
+
+---
+
+# Organizational Restructuring and Management of NCEP (2023)
+
+## 1. Institutional Context
+
+NCEP – College affiliated with Université Paris Lumières (UPL),  
+at the interface of:
+
+- Université Paris Nanterre
+- Université Paris 8
+- Université Paris Lumières (conventional structure)
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](/images/logos/lumieres.png){height=80px}
+:::
+
+::: {.column width="50%"}
+![](/images/logos/ncep.png){height=80px}
+:::
+
+:::
+
+Role held:  
+Administrative, Academic and Financial Manager (Category A)  
+Sole management position within the unit.
+
+Direct supervisor: Johnny Gogibus, Secretary-General (DGS) of the COMUE  
+([johnny.gogibus@culture.gouv.fr](mailto:johnny.gogibus@culture.gouv.fr))
+
+Appointment after five months as an administrative assistant (Category C), in a context of prolonged leadership vacancy.
+
+---
+
+## 2. Initial Situation
+
+Unit without a manager for several months.
+
+High structural complexity:
+
+- Three partner universities.
+- Multiple hierarchies.
+- Distinct administrative and IT systems.
+- Students legally attached to two universities, but graduating from a third.
+- Accumulated administrative errors and incomplete files over three years.
+
+Lack of formalized procedures and strong reliance on informal practices.
+
+---
+
+## 3. Track 1 – Organizational Recovery and Workflow Optimization
+
+### Diagnosis
+
+- Undocumented processes.
+- Fragmented information flows.
+- Proliferation of unsecured individual files.
+- Delayed payments for teaching staff (incomplete files).
+- High legal and organizational risk.
+
+### Actions
+
+**1. Process mapping**  
+- Full analysis of the student lifecycle: enrollment → graduation.
+- Full analysis of the teaching staff lifecycle: recruitment → scheduling → payment.
+
+**2. Formalization and standardization (SOP – Standard Operating Procedures)**  
+- Drafting of an internal operations manual.
+- Clarification of responsibilities and interfaces.
+
+**3. Multi-stakeholder governance**  
+- Active interface with HR, academic leadership, IT, and international relations.
+- Mapping of contacts and decision-making workflows.
+- Stabilization of validation circuits.
+
+**4. Document management overhaul**  
+- Migration to secure Nextcloud storage.
+- Centralization of files.
+- Structured collaboration through shared folders and templates.
+
+**5. Operational optimization**  
+- Streamlining admissions and enrollment cycles.
+- Reorganization of course scheduling.
+- Resolution of room booking conflicts.
+- Closure of payment cases left unresolved for three years.
+
+### Results
+
+- Stabilized processes.
+- Reduced administrative errors.
+- Secured documentation flows.
+- Regularized payments.
+- Improved visibility with institutional partners.
+
+---
+
+## 4. Track 2 – Curriculum Re-engineering
+
+### Diagnosis
+
+- Inconsistencies in curricula and course grids.
+- Unscheduled courses.
+- Gaps between actual course content and official curricula.
+- Credit calculation issues.
+- Complex configuration in APOGEE.
+
+### Actions
+
+- Full curriculum audit.
+- Identification of structural inconsistencies.
+- Formal escalation to academic leadership.
+- Close collaboration with academic directors and instructional engineers (UPN / UP8).
+- Revision of course titles, credits, and shared modules.
+
+### Results
+
+- Corrected and validated curricula.
+- Alignment between actual content and official structure.
+- Removal of “ghost courses”.
+- Simplified APOGEE configuration.
+- Increased clarity for students and administrative services.
+
+---
+
+## 5. Track 3 – Strengthening Academic Compliance
+
+### Key challenges
+
+- Compliance with assessment calendars.
+- Compliance with university regulations.
+- Proper supervision of Master’s defenses.
+- Internship management.
+- Mandatory international mobility (L3).
+
+### Contributions
+
+- Clarification of assessment procedures.
+- Strict application of regulations.
+- Arbitration in conflict situations.
+- Legal security for academic validations.
+
+### Impact
+
+- Reduced ambiguity.
+- Secured academic decisions.
+- Improved transparency for students and teaching staff.
+
+---
+
+## 6. Skills mobilized
+
+- Unit management
+- Multi-stakeholder project management
+- Process mapping
+- Procedure standardization
+- Inter-institutional governance
+- Organizational optimization
+- Curriculum re-engineering
+- Regulatory compliance
+- Change management
+
+---
+
+# Joint PhD: Complex Project Management and Transferability to Instructional Design
+
+Joint doctoral candidate (EPHE – France / UCLouvain – Belgium),  
+conducting a multi-year research project mobilizing management, analytical, and design competencies transferable to instructional design.
+
+Supervisors:
+
+- Vassa Kontouma ([vassa.kontouma@ephe.psl.eu](mailto:vassa.kontouma@ephe.psl.eu))
+- Jean-Pascal Gay ([jpgay@uclouvain.be](mailto:jpgay@uclouvain.be))
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](/images/logos/ephe.png){height=80px}
+:::
+
+::: {.column width="50%"}
+![](/images/logos/uclouvain.png){height=80px}
+:::
+
+:::
+
+---
+
+## 1. Multi-institutional project management
+
+### Governance and coordination
+
+- Interface with two university administrations (France / Belgium).
+- Coordination with two supervisory teams.
+- Management of distinct academic calendars.
+- Compliance with the regulatory requirements of both systems.
+
+### Strategic planning
+
+The PhD is structured into work packages:
+
+- Source research and collection (libraries, archives).
+- Academic publications.
+- Conference communications.
+- Progressive thesis writing.
+- Fulfillment of teaching/training obligations.
+
+### International missions
+
+- Funding search and acquisition.
+- Negotiation of agreements and collaborations.
+- Complex logistical planning.
+- Coordination with partner institutions abroad.
+
+### Risk management
+
+- Anticipation of publication delays.
+- Trade-offs between research output and parallel obligations.
+- Time reallocation and prioritization.
+
+---
+
+## 2. Contextual analysis (Analysis – ADDIE)
+
+My doctoral research analyzes knowledge production and dissemination systems in the 17th century.
+
+This approach is comparable to the “Analysis” phase in ADDIE.
+
+### Identifying real needs
+
+In the study of pedagogical and devotional literature, I analyze:
+
+- Implicit audience needs.
+- Cultural and spiritual expectations.
+- Gaps between editorial supply and actual demand.
+- Drivers of success and failure.
+
+This corresponds to a retrospective learning needs analysis.
+
+### Stakeholders and values analysis
+
+I reconstruct:
+
+- Authors’ intentions.
+- Institutional constraints.
+- Economic stakes.
+- Power relations.
+- Cultural and religious identities.
+
+This work is directly transferable to:
+
+- organizational culture analysis,
+- value mapping,
+- learner profiling.
+
+### Constraints analysis
+
+Historical systems cannot be understood without:
+
+- economic constraints,
+- material constraints,
+- political constraints,
+- institutional constraints.
+
+Similarly, any instructional design project requires an analysis of organizational and budget constraints in order to implement solutions in real conditions.
+
+---
+
+## 3. Structuring and design (Design – ADDIE)
+
+Historical research requires rigorous formalization:
+
+- Category definition.
+- Concept delimitation.
+- Objective clarification.
+- Coherent argumentative architectures.
+
+This competency is directly applicable to:
+
+- competency framework design,
+- learning objective definition,
+- objective–activity–assessment alignment,
+- coherent learning pathway structuring.
+
+Just as I analyze the internal coherence of a system of thought or an editorial network,  
+I can analyze and structure the coherence of a learning system.
+
+---
+
+## 4. Development and production (Development – ADDIE)
+
+The PhD involves:
+
+- Multilingual writing.
+- Structured documentation.
+- Advanced technical workflows:
+  - LaTeX
+  - Markdown / Quarto
+  - R
+  - Pandoc
+  - bibliographic management (Zotero)
+
+This toolkit is directly applicable to:
+
+- learning content production,
+- structured documentation,
+- digital resource creation.
+
+---
+
+## 5. Implementation and coordination (Implementation – ADDIE)
+
+Conducting the PhD requires:
+
+- Coordination across two institutions.
+- Publication planning.
+- International mission organization.
+- Conference presentations.
+- Management of multiple calendars.
+
+This corresponds to operational implementation of a complex project.
+
+---
+
+## 6. Evaluation and iteration (Evaluation – ADDIE)
+
+Research operates through an iterative cycle:
+
+- Drafting
+- Submission
+- External peer review
+- Revision
+- Improvement
+
+Each article or chapter is evaluated and refined.
+
+This mirrors formative evaluation and continuous improvement cycles in instructional design.
+
+---
+
+## 7. Synthesis: the PhD as an ADDIE laboratory
+
+The PhD functions as a real laboratory for ADDIE-like project management:
+
+- Fine-grained analysis of needs and context
+- Rigorous and structured design
+- Mastered technical development
+- Multi-stakeholder implementation
+- Iterative evaluation and continuous improvement
+
+The difference lies in the domain (history), not in the methodology.
