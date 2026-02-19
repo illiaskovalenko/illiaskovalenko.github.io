@@ -1,10 +1,26 @@
 ---
 title: "Instructional Design and Learning Transformation"
 ---
+::: {.columns .align-items-center}
 
-**Profile transitioning toward instructional design, grounded in analytical research practice**
+::: {.column width="65%"}
 
-# Learning, Structuring, Transforming
+::: {.callout-note title="À propos de moi"}
+::: {.hero-text}
+*Profile transitioning toward instructional design, grounded in analytical research practice*
+
+*#learning, #structuring, #transforming*
+:::
+:::
+:::
+
+::: {.column width="35%"}
+
+![](/images/profile.jpg){.profile-photo}
+
+:::
+
+:::
 
 ## Positioning
 
