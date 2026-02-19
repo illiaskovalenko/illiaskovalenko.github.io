@@ -14,20 +14,20 @@ I am currently seeking opportunities in instructional design and digital learnin
 
 ::: {.column width="50%"}
 
-{{< icon name="linkedin" >}} **LinkedIn**  
+🔗 **LinkedIn**  
 [illiakovalenko](https://www.linkedin.com/in/illiakovalenko){target="_blank"}
 
-{{< icon name="github" >}} **GitHub**  
+💻 **GitHub**  
 [illiaskovalenko](https://github.com/illiaskovalenko){target="_blank"}
 
 :::
 
 ::: {.column width="50%"}
 
-{{< icon name="envelope" >}} **Email**  
+✉️ **Email**  
 [illiaskovalenko@gmail.com](mailto:illiaskovalenko@gmail.com)
 
-{{< icon name="geo-alt" >}} **Location**  
+📍 **Location**  
 Paris / Île-de-France
 
 :::

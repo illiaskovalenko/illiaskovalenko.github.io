@@ -14,7 +14,6 @@ format:
       - cosmo
       - brand
     toc: true
-    icon: bootstrap
     css: styles.css
     include-in-header:
       - text: |
