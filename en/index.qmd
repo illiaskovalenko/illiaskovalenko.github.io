@@ -1,25 +1,28 @@
 ---
-title: "Learning, Structure and Organizational Development"
-description: "Research-driven transition toward instructional design."
+title: "Instructional Design and Learning Transformation"
+description: "Profile transitioning toward instructional design, grounded in analytical research practice."
 ---
+
+# Learning, Structuring, Transforming
 
 ## Positioning
 
-Doctoral researcher (EPHE-PSL / UCLouvain) developing a structured approach to learning grounded in analytical rigor and systems thinking.
+Joint PhD candidate (EPHE-PSL / UCLouvain), I leverage an analytical research background to design coherent, structured, and operational learning systems.
 
-I am transitioning toward instructional design and digital learning by applying research-based methods to the conception of coherent and skill-oriented learning environments.
+I am transitioning toward instructional design and digital learning with a clear objective:  
+to apply systemic analytical methods to the design and management of more effective and robust training solutions.
 
 ---
 
-### What I bring
+## What I bring
 
-- Structured analytical capacity  
-- Competency-oriented thinking  
-- Alignment between skills, activities and assessment  
+- Structured learning needs analysis  
+- Coherent instructional architecture  
+- Competency–activity–assessment alignment  
 - Critical perspective on digital tools and AI  
 
 ---
 
-[Projects](projects.qmd)  
-[Method](method.qmd)  
-[CV](cv.qmd)
+## Explore
+
+[Projects](projects.qmd) · [Approach](method.qmd) · [CV](cv.qmd) · [Contact](contact.qmd)

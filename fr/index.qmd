@@ -1,26 +1,28 @@
 ---
-title: "Apprentissage, structuration et transformation"
+title: "Ingénierie pédagogique et transformation des apprentissages"
 description: "Profil en transition vers l’ingénierie pédagogique, fondé sur une culture analytique issue de la recherche."
 ---
 
+# Apprentissage, structuration, transformation
+
 ## Positionnement
 
-Doctorant en cotutelle (EPHE-PSL / UCLouvain), je développe une approche de l’apprentissage fondée sur la rigueur analytique, la structuration des compétences et la compréhension des systèmes complexes.
+Doctorant en cotutelle (EPHE-PSL / UCLouvain), je mobilise une culture analytique issue de la recherche pour concevoir des dispositifs d’apprentissage cohérents, structurés et opérationnels.
 
 Je m’oriente vers l’ingénierie pédagogique et le digital learning avec une logique claire :  
-appliquer des méthodes issues de la recherche à la conception de dispositifs d’apprentissage plus cohérents et plus utiles.
+appliquer des méthodes d’analyse systémique à la conception et au pilotage de formations plus utiles et plus robustes.
 
 ---
 
-### Ce que j’apporte
+## Ce que j’apporte
 
-- Capacité de diagnostic et d’analyse structurée  
+- Diagnostic structuré des besoins  
 - Construction de logiques pédagogiques cohérentes  
 - Alignement compétences – activités – évaluation  
-- Sens critique sur les outils numériques et l’IA  
+- Regard critique sur les outils numériques et l’IA  
 
 ---
 
-[Voir les projets](projects.qmd)  
-[Ma démarche](method.qmd)  
-[CV](cv.qmd)
+## Explorer
+
+[Projets](projects.qmd) · [Démarche](method.qmd) · [CV](cv.qmd) · [Contact](contact.qmd)
