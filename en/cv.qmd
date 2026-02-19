@@ -2,14 +2,116 @@
 title: "CV"
 ---
 
-Doctoral researcher (EPHE-PSL / UCLouvain).  
-Gradual transition toward instructional design and digital learning.
+[📄 Download CV (PDF)](/en/cv.pdf)
 
-Transferable competencies:
+---
 
-- Structured analysis  
-- Academic project management  
-- Communication  
-- Thoughtful use of digital tools  
+# Profile
 
-[Download CV](cv.pdf)
+Joint PhD candidate (EPHE-PSL / UCLouvain) with experience in higher education teaching, pedagogical coordination, and organizational project management.
+
+Currently transitioning toward instructional design and digital learning project management, with a structured approach grounded in needs analysis, systemic coherence, and multi-stakeholder coordination.
+
+---
+
+# Professional Experience
+
+## Université Paris Sciences et Lettres (PSL)  
+**PhD Researcher – Humanities and Social Sciences**  
+Paris | 2023–2026  
+
+- Management of a multi-year research project (objectives, milestones, deliverables).
+- Structuring and production of complex educational content.
+- Organization of international research missions.
+- Coordination across two institutional systems (France / Belgium).
+- International conference presentations.
+
+---
+
+## Université Paris Nanterre  
+**Adjunct Lecturer – Experimental Methodology**  
+Nanterre | Fall 2025  
+
+- Learning needs analysis.
+- Redefinition of learning objectives.
+- Course redesign around core competency development.
+- Assessment restructuring.
+- Individualized feedback and formative evaluation.
+
+---
+
+## Université Paris Lumières  
+**Administrative, Pedagogical and Financial Manager**  
+Campus Condorcet | 2023  
+
+- Organizational restructuring of an inter-university unit.
+- Process mapping and SOP formalization.
+- Multi-stakeholder coordination.
+- Curriculum re-engineering.
+- Regulatory compliance reinforcement.
+- Workflow optimization and documentation security.
+
+---
+
+## Institut Catholique de Paris  
+**Pedagogical and Administrative Assistant**  
+Paris | 2022  
+
+- Course scheduling.
+- Administrative support for lecturer recruitment.
+- Examination logistics coordination.
+
+---
+
+# Skills
+
+## Instructional Design
+- Learning needs analysis.
+- Learning objective formulation.
+- Learning pathway structuring.
+- Competency–assessment alignment.
+- Blended learning design.
+
+## Project Management
+- Scoping and planning.
+- Milestone tracking.
+- Stakeholder coordination.
+- Reporting.
+- Continuous improvement.
+
+## Analysis & Data
+- R (analysis and visualization).
+- Neo4j / Cypher.
+- Corpus structuring.
+- Qualitative and quantitative methods.
+
+## Tools
+- Markdown / Quarto.
+- LaTeX.
+- Zotero.
+- Reproducible workflows.
+
+---
+
+# Education
+
+## PhD – History (ongoing)  
+EPHE-PSL / UCLouvain  
+Since 2023  
+
+Digital humanities, database structuring, complex system analysis.
+
+## Master’s Degree – Civilisations, Cultures and Societies  
+EPHE-PSL  
+2022–2023 | High distinction
+
+## Bachelor’s Degree – Psychology  
+Université Paris Nanterre  
+2019–2022 | High distinction
+
+---
+
+# Certifications
+
+2024 — Cypher and Graph Data Modeling (Neo4j GraphAcademy)  
+2024 — Introduction to R Programming (EPHE-PSL)

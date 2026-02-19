@@ -2,14 +2,116 @@
 title: "CV"
 ---
 
-Doctorant en cotutelle EPHE-PSL / UCLouvain.  
-Orientation progressive vers l’ingénierie pédagogique et le digital learning.
+[📄 Télécharger le CV (PDF)](/fr/cv.pdf)
 
-Compétences transférables :
+---
 
-- Analyse et structuration  
-- Gestion de projets académiques  
-- Communication écrite et orale  
-- Usage raisonné des outils numériques  
+# Profil
 
-[Télécharger le CV PDF](cv.pdf)
+Doctorant en cotutelle EPHE-PSL / UCLouvain, avec expérience en enseignement supérieur, coordination pédagogique et pilotage organisationnel.
+
+Je m’oriente vers l’ingénierie pédagogique et la gestion de projets digital learning, avec une approche structurée fondée sur l’analyse des besoins, la cohérence des dispositifs et la coordination multi-acteurs.
+
+---
+
+# Expérience professionnelle
+
+## Université Paris Sciences et Lettres (PSL)  
+**Doctorant contractuel – Sciences humaines et sociales**  
+Paris | 2023–2026  
+
+- Pilotage d’un projet de recherche pluriannuel (objectifs, jalons, livrables).
+- Structuration et production de contenus complexes à visée pédagogique.
+- Organisation de missions de recherche internationales.
+- Coordination institutionnelle (France / Belgique).
+- Présentations scientifiques en colloques internationaux.
+
+---
+
+## Université Paris Nanterre  
+**Enseignant vacataire – Méthodologie expérimentale**  
+Nanterre | Automne 2025  
+
+- Analyse des besoins pédagogiques.
+- Reformulation des objectifs d’apprentissage.
+- Structuration d’un dispositif autour d’une compétence centrale (lecture et interprétation scientifique).
+- Révision des modalités d’évaluation.
+- Accompagnement et feedback individualisé.
+
+---
+
+## Université Paris Lumières  
+**Responsable administratif, pédagogique et financier**  
+Campus Condorcet | 2023  
+
+- Redressement organisationnel d’une unité inter-universitaire.
+- Cartographie des processus et formalisation des procédures (SOP).
+- Pilotage multi-acteurs (équipes pédagogiques, RH, IT, partenaires).
+- Ré-ingénierie des maquettes de formation.
+- Mise en conformité réglementaire.
+- Optimisation des workflows et sécurisation documentaire.
+
+---
+
+## Institut Catholique de Paris  
+**Assistant pédagogique et administratif**  
+Paris | 2022  
+
+- Planification des enseignements.
+- Suivi administratif des enseignants vacataires.
+- Organisation logistique des examens.
+
+---
+
+# Compétences
+
+## Ingénierie pédagogique
+- Analyse des besoins.
+- Définition d’objectifs pédagogiques.
+- Structuration de parcours.
+- Alignement compétences – évaluation.
+- Conception de dispositifs hybrides.
+
+## Gestion de projet
+- Cadrage.
+- Planification et jalons.
+- Coordination multi-acteurs.
+- Reporting.
+- Amélioration continue.
+
+## Analyse & Data
+- R (analyse et visualisation).
+- Neo4j / Cypher (modélisation de données).
+- Structuration de corpus.
+- Méthodes qualitatives et quantitatives.
+
+## Outils
+- Markdown / Quarto.
+- LaTeX.
+- Zotero.
+- Workflow reproductible.
+
+---
+
+# Formation
+
+## Doctorat – Histoire (en cours)  
+EPHE-PSL / UCLouvain  
+Depuis 2023  
+
+Humanités numériques, structuration de bases de données, analyse de systèmes complexes.
+
+## Master – Civilisations, cultures, sociétés  
+EPHE-PSL  
+2022–2023 | Mention Très bien (18,10/20)
+
+## Licence – Psychologie  
+Université Paris Nanterre  
+2019–2022 | Mention Très bien (16/20)
+
+---
+
+# Certifications
+
+2024 — Cypher and Graph Data Modeling (Neo4j GraphAcademy)  
+2024 — Initiation au langage R (EPHE-PSL)
