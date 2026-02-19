@@ -97,7 +97,7 @@ docs/fr/fr/index.html
 
 were created. In other words, Quarto replicated the mother directory structure twice during rendering.
 
-## Rendering three language profiles
+### Rendering three language profiles
 
 The issue was resolved by:
 
@@ -124,7 +124,7 @@ docs/
 
 ---
 
-## Language switch mechanism
+### Language switch mechanism
 
 The site includes a custom JavaScript file:
 
@@ -194,7 +194,7 @@ This ensures clean navigation and avoids redundant interface elements.
 
 ---
 
-## Profiles' configurations
+### Profiles' configurations
 
 Here is the way the `_quarto-en.yml` and `_quarto-fr.yml` have been configured:
 
