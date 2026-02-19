@@ -1,22 +1,27 @@
 document.addEventListener("DOMContentLoaded", () => {
     const path = window.location.pathname;
   
-    const inEN = path.startsWith("/en/");
-    const inFR = path.startsWith("/fr/");
+    // Supporte éventuellement un site servi sous /docs/
+    const base = path.startsWith("/docs/") ? "/docs" : "";
+  
+    const inEN = path.startsWith(base + "/en/");
+    const inFR = path.startsWith(base + "/fr/");
   
     if (!inEN && !inFR) return;
   
+    // URL miroir = même chemin après /en/ ou /fr/
     const mirrorPath = inEN
-      ? path.replace(/^\/en\//, "/fr/")
-      : path.replace(/^\/fr\//, "/en/");
+      ? path.replace(new RegExp("^" + base + "/en/"), base + "/fr/")
+      : path.replace(new RegExp("^" + base + "/fr/"), base + "/en/");
   
-    const mirrorUrl =
-      mirrorPath + window.location.search + window.location.hash;
+    const mirrorUrl = mirrorPath + window.location.search + window.location.hash;
   
-    // récupère le seul bouton langue dans la navbar
-    const langLink = document.querySelector("nav .navbar-nav a:last-child");
+    // On vise le bouton langue unique par son texte visible
+    const navAnchors = Array.from(document.querySelectorAll("nav a"));
+    const target = navAnchors.find(a => {
+      const t = a.textContent.trim().toLowerCase();
+      return t === "english" || t === "français";
+    });
   
-    if (langLink) {
-      langLink.setAttribute("href", mirrorUrl);
-    }
+    if (target) target.setAttribute("href", mirrorUrl);
   });  
