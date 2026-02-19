@@ -167,16 +167,8 @@ at the interface of:
 - Université Paris 8
 - Université Paris Lumières (conventional structure)
 
-::: {.columns}
-
-::: {.column width="50%"}
+::: {.text-center}
 ![](/images/logos/lumieres.png){height=80px}
-:::
-
-::: {.column width="50%"}
-![](/images/logos/ncep.png){height=80px}
-:::
-
 :::
 
 Role held:  
