@@ -16,7 +16,15 @@ The multilingual setup was inspired by the three-profile logic described in:
 
 <https://ati-ozgur.github.io/blog-posts/quarto-multi-language-book.html>
 
-The idea of using distinct rendering profiles -- one default, two for the languages the site is written in -- informed the architecture, but the implementation here adopts a stricter folder-level separation.
+The idea of using distinct rendering profiles informed the architecture, but the implementation here adopts a stricter folder-level separation.
+
+Three rendering profiles are used in this project:
+
+- `def`: renders the root-level pages (`index.qmd` as the language selection landing page, and `about.qmd` describing how the site is built).
+- `en`: renders the English version of the site.
+- `fr`: renders the French version of the site.
+
+In practice, `def` is used for the shared entry points, while `en` and `fr` handle the language-specific website configuration (navigation, paths, and page rendering).
 
 ### Source structure
 
@@ -46,7 +54,7 @@ Each language has:
 - symmetric filenames (`/en/method.qmd` corresponds to `/fr/method.qmd)
 - language-specific navigation configuration (see below)
 
-### Main `_quarto.yml` parameters
+### Main `_quarto.yml` elements
 
 Rendering is controlled via `_quarto.yml`:
 
@@ -54,17 +62,19 @@ Rendering is controlled via `_quarto.yml`:
 project:
   type: website
   output-dir: docs
+```
 
+And infra:
+
+```yml
 profile:
   group:
     - [def, en, fr]
 ```
 
-This configuration prevents recursive nesting (e.g., `docs/en/en`) and ensures predictable builds.
+This configuration choses the one and only directory for the output, indicates multiple profiles, prevents recursive nesting (e.g., `docs/en/en`) and ensures predictable builds.
 
-During development, an important behavior of Quarto had to be addressed.
-
-When rendering source `.qmd` files located inside language-specific folders (e.g., `fr/` and `en/`), Quarto preserves the source directory structure in the output directory.
+During development, an important behavior of Quarto had to be addressed. When rendering source `.qmd` files located inside language-specific folders (e.g., `fr/` and `en/`), Quarto preserves the source directory structure in the output directory.
 
 This means that if the source file is:
 
@@ -85,9 +95,7 @@ docs/en/en/method.html
 docs/fr/fr/index.html
 ```
 
-were created.
-
-In other words, Quarto replicated the mother directory structure twice during rendering.
+were created. In other words, Quarto replicated the mother directory structure twice during rendering.
 
 ## Rendering three language profiles
 
@@ -111,13 +119,8 @@ docs/
 ├── fr/
 └── en/
 └── index.html
+└── ...
 ```
-
-without recursive duplication or lost `.html` pages.
-
----
-
-This debugging phase was essential to stabilizing the bilingual architecture and ensuring predictable builds.
 
 ---
 
@@ -159,8 +162,6 @@ The `/js` folder should be included in `resources` in the main `_quarto.yml` fil
 
 ```yml
 project:
-  type: website
-  output-dir: docs
   resources:
     - js
 ```
@@ -170,17 +171,12 @@ project:
 ```yml
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    toc: true
-    css: styles.css
     include-in-header:
       - text: |
           <script defer src="/js/lang-switch.js"></script>
 ```
 
-The logic mirrors the current path.
+The logic of the Java instructions mirror the current path.
 
 Example:
 
@@ -189,7 +185,18 @@ Example:
 
 The switch does not return to the homepage but preserves the exact page path.
 
-Here is the way the profile `_quarto*.yml` have been configured:
+Only one button is displayed:
+
+- If current language = EN → button shows `FR`
+- If current language = FR → button shows `EN`
+
+This ensures clean navigation and avoids redundant interface elements.
+
+---
+
+## Profiles' configurations
+
+Here is the way the `_quarto-en.yml` and `_quarto-fr.yml` have been configured:
 
 ```yml
 project:
@@ -197,7 +204,6 @@ project:
     - en/*.qmd
 
 website:
-  title: ""
   navbar:
     background: primary
     search: true
@@ -222,12 +228,19 @@ format:
     output-dir: en
 ```
 
-Only one button is displayed:
+The default profile has simpler structure, because it doesn't need the navigation bar:
 
-- If current language = EN → button shows `FR`
-- If current language = FR → button shows `EN`
+```yml
+project:
+  render:
+    - index.qmd
+    - about.qmd
 
-This ensures clean navigation and avoids redundant interface elements.
+website:
+  favicon: images/favicon.ico
+  navbar: false
+  search: false
+```
 
 ---
 
