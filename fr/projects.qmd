@@ -199,6 +199,8 @@ Fonction exercée :
 Responsable administratif, pédagogique et financier (catégorie A)  
 Seul poste de management de l’unité.
 
+Supérieur hiérarchique : Johnny Gogibus, DGS de la COMUE ([johnny.gogibus@culture.gouv.fr](mailto:johnny.gogibus@culture.gouv.fr))
+
 Nomination après 5 mois d’expérience comme assistant (cat. C), dans un contexte de vacance prolongée de direction de l'unité de formation.
 
 ---
@@ -330,3 +332,191 @@ Absence de formalisation des procédures et forte dépendance aux pratiques info
 - Ré-ingénierie curriculaire
 - Compliance réglementaire
 - Conduite du changement
+
+# Doctorat en cotutelle : gestion d’un projet complexe et transférabilité vers l’ingénierie pédagogique
+
+Doctorant en cotutelle EPHE (France) – UCLouvain (Belgique),  
+je conduis un projet de recherche pluriannuel mobilisant des compétences de gestion, d’analyse et de conception transférables vers l’ingénierie pédagogique.
+
+Promoteurs :
+
+- Vassa Kontouma ([vassa.kontouma@ephe.psl.eu](mailto:vassa.kontouma@ephe.psl.eu))
+- Jean-Pascal Gay ([jpgay@uclouvain.be](mailto:jpgay@uclouvain.be))
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](/images/logos/ephe.png){height=80px}
+:::
+
+::: {.column width="50%"}
+![](/images/logos/uclouvain.png){height=80px}
+:::
+
+:::
+
+---
+
+## 1. Gestion de projet complexe en environnement multi-institutionnel
+
+### Gouvernance et coordination
+
+- Interface avec deux administrations universitaires (France / Belgique).
+- Coordination avec deux directions de thèse.
+- Respect de calendriers académiques distincts.
+- Conformité aux exigences réglementaires des deux systèmes.
+
+### Planification stratégique
+
+Le doctorat est structuré en workpackages :
+
+- Recherche et collecte des sources (bibliothèques, archives).
+- Publications scientifiques.
+- Communications en colloques.
+- Rédaction progressive de la thèse.
+- Suivi des obligations pédagogiques.
+
+### Gestion des missions internationales
+
+- Recherche et obtention de financements.
+- Négociation d’accords et collaborations.
+- Planification logistique complexe.
+- Coordination avec institutions partenaires étrangères.
+
+### Gestion des risques
+
+- Anticipation des retards de publication.
+- Arbitrage entre production scientifique et obligations annexes.
+- Réallocation du temps et priorisation.
+
+---
+
+## 2. Analyse contextuelle approfondie (Analysis – ADDIE)
+
+Mon travail doctoral consiste à analyser des dispositifs de production et de diffusion du savoir au XVIIe siècle.
+
+Cette analyse mobilise une démarche comparable à la phase "Analysis" d’un modèle ADDIE.
+
+### Identification des besoins réels
+
+Dans l’étude de la littérature pédagogique et dévotionnelle, j’analyse :
+
+- Les besoins implicites des publics.
+- Les attentes culturelles et spirituelles.
+- Les écarts entre l’offre éditoriale et la demande réelle.
+- Les raisons des succès ou des échecs d’ouvrages.
+
+Cette démarche correspond à une analyse des besoins (learning needs analysis) menée a posteriori.
+
+### Analyse des acteurs et des valeurs
+
+Je reconstitue :
+
+- Les intentions des auteurs.
+- Les contraintes institutionnelles.
+- Les enjeux économiques.
+- Les rapports de pouvoir.
+- Les identités culturelles et religieuses.
+
+Ce travail est directement transférable à :
+
+- l’analyse des cultures organisationnelles,
+- l’identification des valeurs d’une institution,
+- la compréhension des profils d’apprenants.
+
+### Analyse des contraintes
+
+Dans une étude historique, aucun dispositif ne peut être compris sans :
+
+- contraintes économiques,
+- contraintes matérielles,
+- contraintes politiques,
+- contraintes institutionnelles.
+
+De la même manière, tout projet pédagogique exige une analyse des contraintes organisationnelles et budgétaires.
+
+---
+
+## 3. Structuration et conception (Design – ADDIE)
+
+La recherche historique exige une formalisation extrêmement rigoureuse :
+
+- Définition des catégories.
+- Délimitation des concepts.
+- Clarification des objectifs.
+- Construction d’architectures argumentatives cohérentes.
+
+Cette compétence est directement mobilisable dans :
+
+- la construction de référentiels de compétences,
+- la définition d’objectifs pédagogiques,
+- l’alignement objectifs–activités–évaluation,
+- la structuration d’un parcours cohérent.
+
+De même que j’analyse la cohérence interne d’un système de pensée ou d’un réseau éditorial,
+je peux analyser la cohérence d’un dispositif d’apprentissage.
+
+---
+
+## 4. Développement et production (Development – ADDIE)
+
+Le doctorat implique :
+
+- Production écrite en plusieurs langues.
+- Construction de supports structurés.
+- Usage avancé de formats techniques :
+  - LaTeX
+  - Markdown / Quarto
+  - R
+  - Pandoc
+  - gestion bibliographique (Zotero)
+
+Cette maîtrise technique est directement applicable à :
+
+- la production de contenus pédagogiques,
+- la documentation structurée,
+- la création de ressources numériques.
+
+---
+
+## 5. Mise en œuvre et coordination (Implementation – ADDIE)
+
+La conduite du projet doctoral suppose :
+
+- Coordination avec deux institutions.
+- Planification des publications.
+- Organisation de missions internationales.
+- Présentation en colloques.
+- Respect de calendriers multiples.
+
+Cette logique correspond à la mise en œuvre opérationnelle d’un projet complexe.
+
+---
+
+## 6. Évaluation et itération (Evaluation – ADDIE)
+
+La recherche fonctionne selon un cycle itératif :
+
+- Rédaction.
+- Soumission.
+- Évaluation externe.
+- Révision.
+- Amélioration.
+
+Chaque article ou chapitre est évalué, critiqué, puis amélioré.
+
+Cette logique correspond aux cycles d’évaluation formative et d’amélioration continue d’un dispositif pédagogique.
+
+---
+
+## 7. Synthèse : doctorat comme laboratoire ADDIE
+
+Le doctorat constitue un laboratoire réel de gestion de projet structuré selon une logique proche de ADDIE :
+
+- Analyse fine des besoins et du contexte.
+- Conception rigoureuse et structurée.
+- Production technique maîtrisée.
+- Mise en œuvre multi-acteurs.
+- Évaluation itérative et amélioration continue.
+
+La différence tient au domaine (histoire), non à la méthode.
