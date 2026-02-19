@@ -172,14 +172,21 @@
     "href": "en/contact.html",
     "title": "Contact",
     "section": "",
-    "text": "LinkedIn : illiakovalenko\nGitHub : illiaskovalenko\nEmail : illiaskovalenko@gmail.com"
+    "text": "I am currently seeking opportunities in instructional design and digital learning project management (1–2 year work-study programme).\n\n\n\n\n\n{{&lt; icon name=\"linkedin\" &gt;}} LinkedIn\nilliakovalenko\n{{&lt; icon name=\"github\" &gt;}} GitHub\nilliaskovalenko\n\n{{&lt; icon name=\"envelope\" &gt;}} Email\nilliaskovalenko@gmail.com\n{{&lt; icon name=\"geo-alt\" &gt;}} Location\nParis / Île-de-France\n\n\n\n\n\n\nLetters of recommendation available upon request."
   },
   {
-    "objectID": "en/contact.html#me-contacter",
-    "href": "en/contact.html#me-contacter",
+    "objectID": "en/contact.html#contact-details",
+    "href": "en/contact.html#contact-details",
     "title": "Contact",
     "section": "",
-    "text": "LinkedIn : illiakovalenko\nGitHub : illiaskovalenko\nEmail : illiaskovalenko@gmail.com"
+    "text": "{{&lt; icon name=\"linkedin\" &gt;}} LinkedIn\nilliakovalenko\n{{&lt; icon name=\"github\" &gt;}} GitHub\nilliaskovalenko\n\n{{&lt; icon name=\"envelope\" &gt;}} Email\nilliaskovalenko@gmail.com\n{{&lt; icon name=\"geo-alt\" &gt;}} Location\nParis / Île-de-France"
+  },
+  {
+    "objectID": "en/contact.html#references",
+    "href": "en/contact.html#references",
+    "title": "Contact",
+    "section": "",
+    "text": "Letters of recommendation available upon request."
   },
   {
     "objectID": "en/cv.html",

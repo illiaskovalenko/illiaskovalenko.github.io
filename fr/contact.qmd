@@ -2,8 +2,40 @@
 title: "Contact"
 ---
 
-## Contact me
+# Me contacter
 
-- LinkedIn : [illiakovalenko](https://www.linkedin.com/in/illiakovalenko/)
-- GitHub : [illiaskovalenko](https://github.com/illiaskovalenko)
-- Email : [illiaskovalenko@gmail.com](mailto:illiaskovalenko@gmail.com)
+Je suis ouvert aux opportunités en ingénierie pédagogique et gestion de projets digital learning (alternance 1–2 ans).
+
+---
+
+## Coordonnées
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+{{< icon name="linkedin" >}} **LinkedIn**  
+[illiakovalenko](https://www.linkedin.com/in/illiakovalenko){target="_blank"}
+
+{{< icon name="github" >}} **GitHub**  
+[illiaskovalenko](https://github.com/illiaskovalenko){target="_blank"}
+
+:::
+
+::: {.column width="50%"}
+
+{{< icon name="envelope" >}} **Email**  
+[illiaskovalenko@gmail.com](mailto:illiaskovalenko@gmail.com)
+
+{{< icon name="geo-alt" >}} **Localisation**  
+Paris / Île-de-France
+
+:::
+
+:::
+
+---
+
+## Références
+
+Lettres de recommandation disponibles sur demande.

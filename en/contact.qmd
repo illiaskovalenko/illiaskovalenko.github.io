@@ -2,8 +2,40 @@
 title: "Contact"
 ---
 
-## Me contacter
+# Contact
 
-- LinkedIn : [illiakovalenko](https://www.linkedin.com/in/illiakovalenko/)
-- GitHub : [illiaskovalenko](https://github.com/illiaskovalenko)
-- Email : [illiaskovalenko@gmail.com](mailto:illiaskovalenko@gmail.com)
+I am currently seeking opportunities in instructional design and digital learning project management (1–2 year work-study programme).
+
+---
+
+## Contact details
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+{{< icon name="linkedin" >}} **LinkedIn**  
+[illiakovalenko](https://www.linkedin.com/in/illiakovalenko){target="_blank"}
+
+{{< icon name="github" >}} **GitHub**  
+[illiaskovalenko](https://github.com/illiaskovalenko){target="_blank"}
+
+:::
+
+::: {.column width="50%"}
+
+{{< icon name="envelope" >}} **Email**  
+[illiaskovalenko@gmail.com](mailto:illiaskovalenko@gmail.com)
+
+{{< icon name="geo-alt" >}} **Location**  
+Paris / Île-de-France
+
+:::
+
+:::
+
+---
+
+## References
+
+Letters of recommendation available upon request.
