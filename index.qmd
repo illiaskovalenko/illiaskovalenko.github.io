@@ -23,6 +23,10 @@ Instructional Design · Research · Humanities & Social Sciences
 Language Choice / Choix de la langue
 :::
 
+::: {.landing-hint}
+Select a language to continue / Sélectionnez une langue pour continuer.
+:::
+
 ::: {.landing-actions}
 [English](en/index.html){.landing-btn .landing-btn-outline}
 [Français](fr/index.html){.landing-btn .landing-btn-outline}
