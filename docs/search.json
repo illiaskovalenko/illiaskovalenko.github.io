@@ -53,7 +53,14 @@
     "href": "en/contact.html",
     "title": "Contact",
     "section": "",
-    "text": "LinkedIn : https://www.linkedin.com/in/illiakovalenko/ GitHub : https://github.com/illiaskovalenko\nEmail : illiaskovalenko@mmail.com"
+    "text": "LinkedIn : illiakovalenko\nGitHub : illiaskovalenko\nEmail : illiaskovalenko@gmail.com"
+  },
+  {
+    "objectID": "en/contact.html#me-contacter",
+    "href": "en/contact.html#me-contacter",
+    "title": "Contact",
+    "section": "",
+    "text": "LinkedIn : illiakovalenko\nGitHub : illiaskovalenko\nEmail : illiaskovalenko@gmail.com"
   },
   {
     "objectID": "en/cv.html",
@@ -65,8 +72,8 @@
   {
     "objectID": "en/method.html",
     "href": "en/method.html",
-    "title": "Démarche",
+    "title": "Approach",
     "section": "",
-    "text": "Ma pratique s’appuie sur des compétences développées en recherche :\n\nAnalyse approfondie des sources\n\nModélisation de systèmes complexes\n\nStructuration logique de l’information\n\nRigueur méthodologique\n\nJ’explore leur application à la conception pédagogique selon trois principes :"
+    "text": "My approach builds on research-developed competencies:\n\nDeep analytical work\n\nComplex system modeling\n\nLogical structuring\n\nMethodological rigor\n\nI apply these principles to learning design through:"
   }
 ]

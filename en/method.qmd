@@ -1,20 +1,20 @@
 ---
-title: "Démarche"
+title: "Approach"
 ---
 
-# Une transition structurée vers l’ingénierie pédagogique
+# A structured transition toward instructional design
 
-Ma pratique s’appuie sur des compétences développées en recherche :
+My approach builds on research-developed competencies:
 
-- Analyse approfondie des sources  
-- Modélisation de systèmes complexes  
-- Structuration logique de l’information  
-- Rigueur méthodologique  
+- Deep analytical work  
+- Complex system modeling  
+- Logical structuring  
+- Methodological rigor  
 
-J’explore leur application à la conception pédagogique selon trois principes :
+I apply these principles to learning design through:
 
-## 1. Clarifier les compétences avant les contenus
+## 1. Clarifying competencies before content
 
-## 2. Construire une cohérence entre objectifs, activités et évaluation
+## 2. Ensuring alignment between objectives, activities and assessment
 
-## 3. Concevoir l’apprentissage comme un système évolutif
+## 3. Viewing learning as an evolving system
