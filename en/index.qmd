@@ -5,9 +5,9 @@ title: "Instructional Design and Learning Transformation"
 
 ::: {.column width="65%"}
 
-::: {.callout-note title="À propos de moi"}
+::: {.callout-note title="About me"}
 ::: {.hero-text}
-Profile transitioning toward instructional design, grounded in analytical research practice
+Young scholar in humanities and social sciences transitioning toward instructional design
 :::
 *#learning, #structuring, #transforming*
 :::
@@ -21,7 +21,7 @@ Profile transitioning toward instructional design, grounded in analytical resear
 
 :::
 
-## Positioning
+## Who I Am
 
 Joint PhD candidate (EPHE-PSL / UCLouvain), I leverage an analytical research background to design coherent, structured, and operational learning systems.
 
@@ -30,12 +30,12 @@ to apply systemic analytical methods to the design and management of more effect
 
 ---
 
-## What I bring
+## What I Can Bring to Your Organization
 
 - Structured learning needs analysis  
 - Coherent instructional architecture  
 - Competency–activity–assessment alignment  
-- Critical perspective on digital tools and AI  
+- Critical perspective on digital tools and AI
 
 ---
 

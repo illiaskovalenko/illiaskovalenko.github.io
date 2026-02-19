@@ -8,7 +8,7 @@ title: "Ingénierie pédagogique et transformation des apprentissages"
 
 ::: {.callout-note title="À propos de moi"}
 ::: {.hero-text}
-Profil en transition vers l’ingénierie pédagogique, fondé sur une culture analytique issue de la recherche
+Doctorant en sciences humaines et sociales, je suis en reconversion professionnelle vers l’ingénierie pédagogique
 :::
 *#apprentissage, #structuration, #transformation*
 
@@ -23,16 +23,16 @@ Profil en transition vers l’ingénierie pédagogique, fondé sur une culture a
 
 :::
 
-# Positionnement
+# Qui suis-je
 
-Doctorant en cotutelle (EPHE-PSL / UCLouvain), je mobilise une culture analytique issue de la recherche pour concevoir des dispositifs d’apprentissage cohérents, structurés et opérationnels.
+Doctorant en cotutelle (EPHE-PSL / UCLouvain), je mobilise un esprit analytique et une rigueur scientifique exceptionnelle pour concevoir des dispositifs d’apprentissage cohérents, structurés et opérationnels.
 
 Je m’oriente vers l’ingénierie pédagogique et le digital learning avec une logique claire :  
-appliquer des méthodes d’analyse systémique à la conception et au pilotage de formations plus utiles et plus robustes.
+appliquer des méthodes d’analyse systématique à la conception et au pilotage de formations adaptées et utiles aux apprenants et à l'entreprise.
 
 ---
 
-## Ce que j’apporte
+## Ce que je peux vous apporter
 
 - Diagnostic structuré des besoins  
 - Construction de logiques pédagogiques cohérentes  
@@ -41,6 +41,6 @@ appliquer des méthodes d’analyse systémique à la conception et au pilotage 
 
 ---
 
-## Explorer
+## Explorez mes projets, ma démarche et mon parcours
 
 [Projets](projects.qmd) · [Démarche](method.qmd) · [CV](cv.qmd) · [Contact](contact.qmd)

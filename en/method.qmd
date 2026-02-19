@@ -2,7 +2,7 @@
 title: "Approach"
 ---
 
-# Approach and Working Principles
+# Working Principles
 
 My approach combines analytical rigor with operational pragmatism.
 
