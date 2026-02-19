@@ -1,22 +1,42 @@
-document.addEventListener("DOMContentLoaded", function () {
-
-    const currentPath = window.location.pathname;
-    const isEN = currentPath.includes("/en/");
-    const isFR = currentPath.includes("/fr/");
+document.addEventListener("DOMContentLoaded", () => {
+    const path = window.location.pathname;
   
-    const links = document.querySelectorAll("[data-original-href]");
+    const btnEN = document.getElementById("lang-en");
+    const btnFR = document.getElementById("lang-fr");
   
-    links.forEach(link => {
-      const original = link.getAttribute("data-original-href");
+    const inEN = path.startsWith("/en/");
+    const inFR = path.startsWith("/fr/");
   
-      if (!original) return;
+    // If not on a language page, hide both
+    if (!inEN && !inFR) {
+      if (btnEN) btnEN.style.display = "none";
+      if (btnFR) btnFR.style.display = "none";
+      return;
+    }
   
-      let clean = original
-        .replace("/docs", "")
-        .replace("index.html", "")
-        .replace(/\/$/, "");
+    // Compute mirror path
+    let mirrorPath;
+    if (inEN) mirrorPath = path.replace(/^\/en\//, "/fr/");
+    if (inFR) mirrorPath = path.replace(/^\/fr\//, "/en/");
   
-      link.setAttribute("href", clean + "/");
-    });
+    // Keep query/hash
+    const mirrorUrl = mirrorPath + window.location.search + window.location.hash;
   
+    if (inEN) {
+      // show FR only
+      if (btnEN) btnEN.style.display = "none";
+      if (btnFR) {
+        btnFR.style.display = "";
+        btnFR.setAttribute("href", mirrorUrl);
+      }
+    }
+  
+    if (inFR) {
+      // show EN only
+      if (btnFR) btnFR.style.display = "none";
+      if (btnEN) {
+        btnEN.style.display = "";
+        btnEN.setAttribute("href", mirrorUrl);
+      }
+    }
   });  

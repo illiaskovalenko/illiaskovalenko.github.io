@@ -122,12 +122,12 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../en/index.html"> 
-<span class="menu-text">English</span></a>
+    <a class="nav-link" href="../#"> 
+<span class="menu-text">Français</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../fr/index.html"> 
-<span class="menu-text">Français</span></a>
+    <a class="nav-link" href="../#"> 
+<span class="menu-text">English</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -215,47 +215,87 @@ Improved clarity in requirements and structured delivery cycles.</p>
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", () =&gt; {
 
-
-
-    const currentPath = window.location.pathname;
-
-    const isEN = currentPath.includes("/en/");
-
-    const isFR = currentPath.includes("/fr/");
+    const path = window.location.pathname;
 
   
 
-    const links = document.querySelectorAll("[data-original-href]");
+    const btnEN = document.getElementById("lang-en");
+
+    const btnFR = document.getElementById("lang-fr");
 
   
 
-    links.forEach(link =&gt; {
+    const inEN = path.startsWith("/en/");
 
-      const original = link.getAttribute("data-original-href");
-
-  
-
-      if (!original) return;
+    const inFR = path.startsWith("/fr/");
 
   
 
-      let clean = original
+    // If not on a language page, hide both
 
-        .replace("/docs", "")
+    if (!inEN &amp;&amp; !inFR) {
 
-        .replace("index.html", "")
+      if (btnEN) btnEN.style.display = "none";
 
-        .replace(/\/$/, "");
+      if (btnFR) btnFR.style.display = "none";
+
+      return;
+
+    }
+
+  
+
+    // Compute mirror path
+
+    let mirrorPath;
+
+    if (inEN) mirrorPath = path.replace(/^\/en\//, "/fr/");
+
+    if (inFR) mirrorPath = path.replace(/^\/fr\//, "/en/");
 
   
 
-      link.setAttribute("href", clean + "/");
+    // Keep query/hash
 
-    });
+    const mirrorUrl = mirrorPath + window.location.search + window.location.hash;
 
   
+
+    if (inEN) {
+
+      // show FR only
+
+      if (btnEN) btnEN.style.display = "none";
+
+      if (btnFR) {
+
+        btnFR.style.display = "";
+
+        btnFR.setAttribute("href", mirrorUrl);
+
+      }
+
+    }
+
+  
+
+    if (inFR) {
+
+      // show EN only
+
+      if (btnFR) btnFR.style.display = "none";
+
+      if (btnEN) {
+
+        btnEN.style.display = "";
+
+        btnEN.setAttribute("href", mirrorUrl);
+
+      }
+
+    }
 
   });  
 <script id="quarto-html-after-body" type="application/javascript">

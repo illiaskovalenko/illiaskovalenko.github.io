@@ -21,10 +21,12 @@ website:
       - href: /en/contact.html
         text: Contact
     right:
-      - text: "English"
-        href: /en/index.html
-      - text: "Français"
-        href: /fr/index.html
+      - text: Français
+        href: "#"
+        id: lang-fr
+      - text: English
+        href: "#"
+        id: lang-en
 
 format:
   html:
