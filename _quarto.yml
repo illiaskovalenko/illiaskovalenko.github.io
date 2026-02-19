@@ -15,6 +15,7 @@ format:
       - brand
     toc: true
     css: styles.css
+    mainfont: "Inter"
     include-in-header:
       - text: |
           <script defer src="/js/lang-switch.js"></script>

@@ -2,9 +2,25 @@
 
 .profile-photo {
   border-radius: 50%;
-  width: 220px;
+  width: 190px;
   display: block;
-  margin: 0 auto;
+  margin: 30px;
+}
+
+.hero-text {
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.35;
+  margin: 0.2rem 0;
+}
+
+.callout-note .callout-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 /* =========================

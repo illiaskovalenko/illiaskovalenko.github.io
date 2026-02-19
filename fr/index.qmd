@@ -4,23 +4,26 @@ title: "Ingénierie pédagogique et transformation des apprentissages"
 
 ::: {.columns .align-items-center}
 
+::: {.column width="65%"}
+
+::: {.callout-note title="À propos de moi"}
+::: {.hero-text}
+*Profil en transition vers l’ingénierie pédagogique, fondé sur une culture analytique issue de la recherche*
+
+*#apprentissage, #structuration, #transformation*
+:::
+:::
+:::
+
 ::: {.column width="35%"}
 
 ![](/images/profile.jpg){.profile-photo}
 
 :::
 
-::: {.column width="65%"}
-
-**Profil en transition vers l’ingénierie pédagogique, fondé sur une culture analytique issue de la recherche**
-
-# Apprentissage, structuration, transformation
-
 :::
 
-:::
-
-## Positionnement
+# Positionnement
 
 Doctorant en cotutelle (EPHE-PSL / UCLouvain), je mobilise une culture analytique issue de la recherche pour concevoir des dispositifs d’apprentissage cohérents, structurés et opérationnels.
 

@@ -142,9 +142,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Sur cette page</h2>
    
   <ul>
-  <li><a href="#positionnement" id="toc-positionnement" class="nav-link active" data-scroll-target="#positionnement">Positionnement</a></li>
+  <li><a href="#positionnement" id="toc-positionnement" class="nav-link active" data-scroll-target="#positionnement">Positionnement</a>
+  <ul class="collapse">
   <li><a href="#ce-que-japporte" id="toc-ce-que-japporte" class="nav-link" data-scroll-target="#ce-que-japporte">Ce que j’apporte</a></li>
   <li><a href="#explorer" id="toc-explorer" class="nav-link" data-scroll-target="#explorer">Explorer</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -171,22 +173,33 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="columns align-items-center">
-<div class="column" style="width:35%;">
+<div class="column" style="width:65%;">
+<div class="callout callout-style-default callout-note callout-titled" title="À propos de moi">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>À propos de moi
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<div class="hero-text">
+<p><em>Profil en transition vers l’ingénierie pédagogique, fondé sur une culture analytique issue de la recherche</em></p>
+<p><em>#apprentissage, #structuration, #transformation</em></p>
+</div>
+</div>
+</div>
+</div><div class="column" style="width:35%;">
 <p><img src="..\images/profile.jpg" class="profile-photo img-fluid"></p>
-</div><div class="column" style="width:65%;">
-<p><strong>Profil en transition vers l’ingénierie pédagogique, fondé sur une culture analytique issue de la recherche</strong></p>
-<section id="apprentissage-structuration-transformation" class="level1">
-<h1>Apprentissage, structuration, transformation</h1>
-</section>
 </div>
 </div>
-<section id="positionnement" class="level2">
-<h2 class="anchored" data-anchor-id="positionnement">Positionnement</h2>
+<section id="positionnement" class="level1">
+<h1>Positionnement</h1>
 <p>Doctorant en cotutelle (EPHE-PSL / UCLouvain), je mobilise une culture analytique issue de la recherche pour concevoir des dispositifs d’apprentissage cohérents, structurés et opérationnels.</p>
 <p>Je m’oriente vers l’ingénierie pédagogique et le digital learning avec une logique claire :<br>
 appliquer des méthodes d’analyse systémique à la conception et au pilotage de formations plus utiles et plus robustes.</p>
 <hr>
-</section>
 <section id="ce-que-japporte" class="level2">
 <h2 class="anchored" data-anchor-id="ce-que-japporte">Ce que j’apporte</h2>
 <ul>
@@ -205,6 +218,7 @@ appliquer des méthodes d’analyse systémique à la conception et au pilotage 
 <p><a href="../fr/projects.html">Projets</a> · <a href="../fr/method.html">Démarche</a> · <a href="../fr/cv.html">CV</a> · <a href="../fr/contact.html">Contact</a></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
