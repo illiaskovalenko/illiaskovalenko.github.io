@@ -1,7 +1,8 @@
 ---
 title: "Ingénierie pédagogique et transformation des apprentissages"
-description: "Profil en transition vers l’ingénierie pédagogique, fondé sur une culture analytique issue de la recherche."
 ---
+
+**Profil en transition vers l’ingénierie pédagogique, fondé sur une culture analytique issue de la recherche**
 
 # Apprentissage, structuration, transformation
 
