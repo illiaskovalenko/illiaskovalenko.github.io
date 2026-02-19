@@ -1,14 +1,4 @@
 /* css styles */
-/* === Brand override === */
-$primary: #7D47F4;           // violet OpenClassrooms
-$secondary: #1f1f24;         // encre sombre
-$body-bg: #fbf7ef;           // blanc/sepia doux
-$body-color: #1f1f24;
-
-/* Optionnel : hover plus profond */
-$btn-primary-hover-bg: darken($primary, 7%);
-$btn-primary-hover-border: darken($primary, 7%);
-
 /* Landing layout */
 .landing-hero{
   min-height: calc(100vh - 2rem);
@@ -89,17 +79,16 @@ $btn-primary-hover-border: darken($primary, 7%);
 .landing-btn:visited{ text-decoration: none; } /* neutralise violet "visited" */
 
 .landing-btn-primary{
-  background: var(--oc-primary);
+  background: var(--bs-primary);
+  border-color: var(--bs-primary);
   color: #fff;
-  border-color: var(--oc-primary);
 }
 
 .landing-btn-primary:visited{ color:#fff; }
 
 .landing-btn-outline{
-  background: #fff;
-  color: var(--oc-primary);
-  border-color: rgba(125,71,244,.45);
+  color: var(--bs-primary);
+  border-color: color-mix(in srgb, var(--bs-primary) 45%, transparent);
 }
 
 .landing-btn-outline:visited{ color: var(--oc-primary); }

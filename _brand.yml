@@ -1,0 +1,17 @@
+color:
+  palette:
+    oc-purple: "#7D47F4"
+    oc-ink: "#1F1F24"
+    oc-paper: "#FBF7EF"
+    oc-white: "#FFFFFF"
+
+  background: oc-paper
+  foreground: oc-ink
+  primary: oc-purple
+
+typography:
+  fonts:
+    - family: Inter
+      source: google
+  base: Inter
+  headings: Inter
