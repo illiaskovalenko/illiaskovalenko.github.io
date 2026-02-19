@@ -1,4 +1,12 @@
 /* css styles */
+
+.profile-photo {
+  border-radius: 50%;
+  width: 220px;
+  display: block;
+  margin: 0 auto;
+}
+
 /* =========================
    Landing (root index) styles
    ========================= */
