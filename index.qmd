@@ -13,7 +13,7 @@ Illia Kovalenko
 :::
 
 ::: {.landing-tagline}
-Portfolio · Digital learning · Research methods · Project delivery
+Portfolio · CV · Instructional Design · Research · Humanities & Social Sciences
 :::
 :::
 
@@ -29,7 +29,7 @@ Language Choice / Choix de la langue
 :::
 
 ::: {.landing-foot}
-EPHE-PSL · UCLouvain • Paris / Bruxelles
+EPHE-PSL / UCLouvain • Paris / Bruxelles
 :::
 
 :::
