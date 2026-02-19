@@ -56,7 +56,7 @@
   /* Buttons (forced, stable) */
   .landing-actions{
     display: flex;
-    justify-content: center;     /* centre dans la carte */
+    justify-content: center;
     gap: 1.2rem;
     flex-wrap: wrap;
     margin-top: .75rem;
@@ -82,11 +82,7 @@
   
     transition: transform .12s ease, box-shadow .14s ease, background-color .14s ease, border-color .14s ease;
   }
-  
-  .landing-actions a:visited{
-    color: #ffffff !important;   /* neutralise le violet "visited" */
-  }
-  
+
   .landing-actions a:hover{
     transform: translateY(-2px);
     box-shadow: 0 12px 26px rgba(0,0,0,.14);
@@ -98,4 +94,31 @@
   .landing-actions a:focus-visible{
     outline: 3px solid color-mix(in srgb, var(--oc-primary) 35%, white);
     outline-offset: 3px;
-  }  
+  } 
+
+/* Force landing button colors (no dependency on Bootstrap vars) */
+.landing-btn{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 170px;
+  padding: .95rem 1.7rem;
+  border-radius: 16px;
+  text-decoration: none !important;
+  font-weight: 700;
+}
+
+.landing-btn-primary{
+  background: #7D47F4 !important;
+  border: 1px solid #7D47F4 !important;
+  color: #ffffff !important;
+}
+
+.landing-btn-primary:visited{
+  color: #ffffff !important;
+}
+
+.landing-btn-primary:hover{
+  background: #6B3FE0 !important;
+  border-color: #6B3FE0 !important;
+}

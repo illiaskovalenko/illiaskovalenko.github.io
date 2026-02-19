@@ -9,11 +9,11 @@ page-layout: full
 
 ::: {.landing-brand}
 ::: {.landing-name}
-Illia Kovalenko
+Illia Kovalenko, Portfolio & CV
 :::
 
 ::: {.landing-tagline}
-Portfolio · CV · Instructional Design · Research · Humanities & Social Sciences
+Instructional Design · Research · Humanities & Social Sciences
 :::
 :::
 
@@ -24,7 +24,7 @@ Language Choice / Choix de la langue
 :::
 
 ::: {.landing-actions}
-[English](en/index.html){.landing-btn .landing-btn-primary}
+[English](en/index.html){.landing-btn .landing-btn-outline}
 [Français](fr/index.html){.landing-btn .landing-btn-outline}
 :::
 
