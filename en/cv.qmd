@@ -2,16 +2,14 @@
 title: "CV"
 ---
 
-# Professional Profile
+Doctoral researcher (EPHE-PSL / UCLouvain).  
+Gradual transition toward instructional design and digital learning.
 
-Doctoral researcher with strong expertise in analytical structuring, systems thinking, and pedagogical design.
+Transferable competencies:
 
-## Core Competencies
+- Structured analysis  
+- Academic project management  
+- Communication  
+- Thoughtful use of digital tools  
 
-- Learning needs analysis  
-- Instructional design  
-- Competency-based frameworks  
-- Digital learning systems  
-- Project management (agile methods)  
-
-A detailed PDF version is available upon request.
+[Download CV](cv.pdf)

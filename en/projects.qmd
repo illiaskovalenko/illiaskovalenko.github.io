@@ -2,45 +2,21 @@
 title: "Projects"
 ---
 
-# Selected Projects
+These projects demonstrate the ability to structure learning environments based on clearly identified needs.
 
-Each project is structured as a case study: problem → diagnosis → design → implementation → impact.
+# Research Methodology Course Redesign
 
----
+## Context
+University-level teaching assignment.
 
-## Research Methodology Course Redesign
+## Objective
+Make methodological skills operational rather than theoretical.
 
-**Context**  
-University-level course requiring structural redesign.
+## Approach
+- Identification of target competencies  
+- Clarification of learning objectives  
+- Structured “red thread” approach  
+- Increased applied and collaborative work  
 
-**Diagnosis**  
-Misalignment between objectives, activities, and assessment.  
-Limited integration of applied practice.
-
-**Design**  
-- Competency-based structure  
-- Real-article "red thread" method  
-- Practical group-based activities  
-- Assessment aligned with methodological skills  
-
-**Impact**  
-- Increased student engagement  
-- Clearer competency acquisition  
-- Faculty adoption of redesigned structure  
-
----
-
-## Agile Product & QA Project (Digital Environment)
-
-**Context**  
-Collaborative product development in an agile framework.
-
-**Focus**  
-- Backlog structuring  
-- User stories  
-- Acceptance criteria  
-- Sprint planning  
-- QA validation  
-
-**Impact**  
-Improved clarity in requirements and structured delivery cycles.
+## Outcome
+Improved pedagogical coherence and student engagement.

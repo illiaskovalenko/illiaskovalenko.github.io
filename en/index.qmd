@@ -1,24 +1,25 @@
 ---
-title: "Illia Kovalenko"
+title: "Learning, Structure and Organizational Development"
+description: "Research-driven transition toward instructional design."
 ---
 
-# Learning Design & Pedagogical Engineering
+## Positioning
 
-I design structured learning systems aligned with competencies, evaluation, and organizational impact.
+Doctoral researcher (EPHE-PSL / UCLouvain) developing a structured approach to learning grounded in analytical rigor and systems thinking.
 
-My approach combines analytical rigor, instructional design, and strategic alignment to transform learning into a measurable driver of performance.
+I am transitioning toward instructional design and digital learning by applying research-based methods to the conception of coherent and skill-oriented learning environments.
 
-## Core Focus
+---
 
-- Needs analysis and learning diagnosis  
-- Competency-based design  
-- Assessment alignment  
-- Digital learning environments (LMS, hybrid formats)  
-- Continuous improvement and learning analytics  
+### What I bring
 
-## Explore
+- Structured analytical capacity  
+- Competency-oriented thinking  
+- Alignment between skills, activities and assessment  
+- Critical perspective on digital tools and AI  
 
-- [Projects](/en/projects.html)
-- [Method](/en/method.html)
-- [CV](/en/cv.html)
-- [Contact](/en/contact.html)
+---
+
+[Projects](projects.qmd)  
+[Method](method.qmd)  
+[CV](cv.qmd)

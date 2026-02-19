@@ -2,45 +2,21 @@
 title: "Projets"
 ---
 
-# Projets sélectionnés
+Ces projets illustrent une capacité à structurer un dispositif d’apprentissage à partir d’un problème identifié.
 
-Chaque projet est présenté sous forme d’étude de cas : problème → diagnostic → conception → mise en œuvre → impact.
+# Refonte d’un cours de méthodologie
 
----
+## Contexte
+Enseignement universitaire en méthodologie de recherche.
 
-## Refonte d’un cours de méthodologie de la recherche
+## Enjeu
+Rendre les compétences méthodologiques réellement opérationnelles pour les étudiants.
 
-**Contexte**  
-Cours universitaire nécessitant une restructuration pédagogique.
+## Démarche
+- Identification des compétences attendues  
+- Clarification des objectifs  
+- Mise en place d’un fil conducteur (analyse d’un article réel)  
+- Renforcement du travail appliqué et collaboratif  
 
-**Diagnostic**  
-Désalignement entre objectifs, activités et évaluation.  
-Manque d’ancrage pratique.
-
-**Conception**  
-- Structuration par compétences  
-- Méthode du « fil rouge » basée sur un article réel  
-- Travaux pratiques en groupe  
-- Évaluation alignée sur les compétences méthodologiques  
-
-**Impact**  
-- Engagement accru des étudiants  
-- Meilleure acquisition des compétences  
-- Adoption de la structure par l’équipe pédagogique  
-
----
-
-## Projet agile & assurance qualité (environnement numérique)
-
-**Contexte**  
-Développement produit en cadre agile.
-
-**Interventions**  
-- Structuration du backlog  
-- Rédaction de user stories  
-- Définition des critères d’acceptation  
-- Planification de sprint  
-- Validation qualité  
-
-**Impact**  
-Clarification des exigences et meilleure maîtrise des cycles de livraison.
+## Résultat
+Meilleure cohérence pédagogique et engagement renforcé.

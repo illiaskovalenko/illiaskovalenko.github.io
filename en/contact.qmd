@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-# Contact
-
-LinkedIn : (à compléter)  
+LinkedIn : https://www.linkedin.com/in/illiakovalenko/
 GitHub : https://github.com/illiaskovalenko  
-Email : (à compléter)
+Email : [illiaskovalenko@mmail.com](mailto:illiaskovalenko@mmail.com)

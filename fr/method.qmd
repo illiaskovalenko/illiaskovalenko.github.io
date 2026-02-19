@@ -1,29 +1,20 @@
 ---
-title: "Méthode"
+title: "Approach"
 ---
 
-# Cadre de travail
+# A structured transition toward instructional design
 
-Ma démarche repose sur une progression structurée :
+My approach builds on research-developed competencies:
 
-## 1. Diagnostic
-- Entretiens parties prenantes  
-- Cartographie des compétences  
-- Analyse des contraintes organisationnelles  
+- Deep analytical work  
+- Complex system modeling  
+- Logical structuring  
+- Methodological rigor  
 
-## 2. Conception
-- Définition des objectifs pédagogiques  
-- Alignement activités – évaluation  
-- Choix des formats et outils adaptés  
+I apply these principles to learning design through:
 
-## 3. Mise en œuvre
-- Planification (approche agile si pertinente)  
-- Paramétrage LMS  
-- Structuration des contenus  
+## 1. Clarifying competencies before content
 
-## 4. Évaluation
-- Mesure des compétences  
-- Intégration des retours  
-- Amélioration continue  
+## 2. Ensuring alignment between objectives, activities and assessment
 
-Former n’est pas transmettre du contenu. C’est concevoir un système.
+## 3. Viewing learning as an evolving system

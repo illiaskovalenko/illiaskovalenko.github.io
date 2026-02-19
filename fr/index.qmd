@@ -1,24 +1,26 @@
 ---
-title: "Illia Kovalenko"
+title: "Apprentissage, structuration et transformation"
+description: "Profil en transition vers l’ingénierie pédagogique, fondé sur une culture analytique issue de la recherche."
 ---
 
-# Ingénierie pédagogique & Learning Design
+## Positionnement
 
-Je conçois des dispositifs d’apprentissage structurés, alignés sur les compétences, l’évaluation et l’impact organisationnel.
+Doctorant en cotutelle (EPHE-PSL / UCLouvain), je développe une approche de l’apprentissage fondée sur la rigueur analytique, la structuration des compétences et la compréhension des systèmes complexes.
 
-Mon approche combine rigueur analytique, conception pédagogique et alignement stratégique afin de faire de la formation un levier mesurable de performance.
+Je m’oriente vers l’ingénierie pédagogique et le digital learning avec une logique claire :  
+appliquer des méthodes issues de la recherche à la conception de dispositifs d’apprentissage plus cohérents et plus utiles.
 
-## Axes principaux
+---
 
-- Analyse des besoins et diagnostic pédagogique  
-- Conception par compétences  
-- Alignement objectifs – activités – évaluation  
-- Environnements numériques d’apprentissage (LMS, hybride)  
-- Amélioration continue  
+### Ce que j’apporte
 
-## Explorer
+- Capacité de diagnostic et d’analyse structurée  
+- Construction de logiques pédagogiques cohérentes  
+- Alignement compétences – activités – évaluation  
+- Sens critique sur les outils numériques et l’IA  
 
-- [Projets](/fr/projects.html)
-- [Méthode](/fr/method.html)
-- [CV](/fr/cv.html)
-- [Contact](/fr/contact.html)
+---
+
+[Voir les projets](projects.qmd)  
+[Ma démarche](method.qmd)  
+[CV](cv.qmd)

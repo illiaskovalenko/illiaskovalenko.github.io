@@ -2,16 +2,14 @@
 title: "CV"
 ---
 
-# Profil professionnel
+Doctorant en cotutelle EPHE-PSL / UCLouvain.  
+Orientation progressive vers l’ingénierie pédagogique et le digital learning.
 
-Doctorant avec une forte expertise en structuration analytique, pensée systémique et conception pédagogique.
+Compétences transférables :
 
-## Compétences clés
+- Analyse et structuration  
+- Gestion de projets académiques  
+- Communication écrite et orale  
+- Usage raisonné des outils numériques  
 
-- Analyse des besoins  
-- Ingénierie pédagogique  
-- Approche par compétences  
-- Dispositifs numériques d’apprentissage  
-- Gestion de projet (méthodes agiles)  
-
-Version PDF détaillée disponible sur demande.
+[Télécharger le CV PDF](cv.pdf)
