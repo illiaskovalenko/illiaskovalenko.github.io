@@ -15,7 +15,9 @@ format:
       - brand
     toc: true
     css: styles.css
-    include-after-body:
-      - js/lang-switch.js
+    include-in-header:
+      - text: |
+          <script defer src="/js/lang-switch.js"></script>
+
 
 
