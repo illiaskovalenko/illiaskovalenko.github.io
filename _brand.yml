@@ -9,6 +9,9 @@ color:
   foreground: oc-ink
   primary: oc-purple
 
+logo:
+  medium: images/ik-monogram.svg
+
 typography:
   fonts:
     - family: Inter

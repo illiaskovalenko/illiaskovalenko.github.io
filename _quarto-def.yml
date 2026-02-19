@@ -3,5 +3,6 @@ project:
     - index.qmd
 
 website:
+  favicon: images/favicon.ico
   navbar: false
   search: false

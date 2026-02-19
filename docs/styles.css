@@ -11,7 +11,7 @@
     padding: 3.5rem 1.5rem;
     background:
       radial-gradient(1200px 600px at 60% 0%, var(--oc-primary-weak), rgba(255,255,255,0)),
-      linear-gradient(180deg, var(--oc-paper), #ffffff);
+      linear-gradient(180deg, var(--oc-paper), #fbf7e);
   }
   
   .landing-card{
@@ -38,6 +38,11 @@
     color: var(--oc-ink);
   }
   
+  .landing-logo{
+    width: 84px;
+    margin-bottom: 1.2rem;
+  }
+
   .landing-title{
     font-size: 1.25rem;
     font-weight: 680;
