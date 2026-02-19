@@ -36,7 +36,7 @@ Select a language to continue / Sélectionnez une langue pour continuer.
 :::
 
 ::: {.landing-foot}
-EPHE-PSL / UCLouvain • Paris / Bruxelles
+EPHE-PSL / UCLouvain • Paris / Bruxelles • [About](about.qmd)
 :::
 
 :::
