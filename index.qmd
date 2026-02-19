@@ -9,7 +9,7 @@ page-layout: full
 
 ::: {.landing-brand}
 
-![](images/ik-monogram.svg){.landing-logo}
+![](images/ik-logo-transparent.png){.landing-logo width=110}
 
 ::: {.landing-name}
 Illia Kovalenko, Portfolio & CV

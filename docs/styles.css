@@ -39,8 +39,10 @@
   }
   
   .landing-logo{
-    width: 84px;
-    margin-bottom: 1.2rem;
+    display: block;
+    width: 110px;
+    height: auto;
+    margin: 0 auto 1.2rem auto;
   }
 
   .landing-title{
