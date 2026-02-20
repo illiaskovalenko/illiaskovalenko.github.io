@@ -176,7 +176,7 @@ format:
           <script defer src="/js/lang-switch.js"></script>
 ```
 
-The logic of the Java instructions mirror the current path.
+The logic of the javascript instructions mirror the current path.
 
 Example:
 
